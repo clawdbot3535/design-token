@@ -6,8 +6,7 @@
       "$extensions": {
         "com.figma.variableId": "VariableID:2:58",
         "com.figma.scopes": [
-          "WIDTH_HEIGHT",
-          "GAP"
+          "ALL_SCOPES"
         ]
       }
     },
@@ -17,8 +16,7 @@
       "$extensions": {
         "com.figma.variableId": "VariableID:2:60",
         "com.figma.scopes": [
-          "WIDTH_HEIGHT",
-          "GAP"
+          "ALL_SCOPES"
         ]
       }
     },
@@ -28,8 +26,7 @@
       "$extensions": {
         "com.figma.variableId": "VariableID:2:62",
         "com.figma.scopes": [
-          "WIDTH_HEIGHT",
-          "GAP"
+          "ALL_SCOPES"
         ]
       }
     },
@@ -39,8 +36,7 @@
       "$extensions": {
         "com.figma.variableId": "VariableID:2:64",
         "com.figma.scopes": [
-          "WIDTH_HEIGHT",
-          "GAP"
+          "ALL_SCOPES"
         ]
       }
     },
@@ -50,8 +46,7 @@
       "$extensions": {
         "com.figma.variableId": "VariableID:2:66",
         "com.figma.scopes": [
-          "WIDTH_HEIGHT",
-          "GAP"
+          "ALL_SCOPES"
         ]
       }
     },
@@ -61,8 +56,7 @@
       "$extensions": {
         "com.figma.variableId": "VariableID:2:67",
         "com.figma.scopes": [
-          "WIDTH_HEIGHT",
-          "GAP"
+          "ALL_SCOPES"
         ]
       }
     },
@@ -72,8 +66,7 @@
       "$extensions": {
         "com.figma.variableId": "VariableID:2:68",
         "com.figma.scopes": [
-          "WIDTH_HEIGHT",
-          "GAP"
+          "ALL_SCOPES"
         ]
       }
     },
@@ -83,8 +76,7 @@
       "$extensions": {
         "com.figma.variableId": "VariableID:2:69",
         "com.figma.scopes": [
-          "WIDTH_HEIGHT",
-          "GAP"
+          "ALL_SCOPES"
         ]
       }
     },
@@ -94,8 +86,7 @@
       "$extensions": {
         "com.figma.variableId": "VariableID:2:70",
         "com.figma.scopes": [
-          "WIDTH_HEIGHT",
-          "GAP"
+          "ALL_SCOPES"
         ]
       }
     },
@@ -105,8 +96,7 @@
       "$extensions": {
         "com.figma.variableId": "VariableID:3525:2144",
         "com.figma.scopes": [
-          "WIDTH_HEIGHT",
-          "GAP"
+          "ALL_SCOPES"
         ]
       }
     },
@@ -116,8 +106,7 @@
       "$extensions": {
         "com.figma.variableId": "VariableID:3525:2145",
         "com.figma.scopes": [
-          "WIDTH_HEIGHT",
-          "GAP"
+          "ALL_SCOPES"
         ]
       }
     },
@@ -127,8 +116,7 @@
       "$extensions": {
         "com.figma.variableId": "VariableID:3525:2514",
         "com.figma.scopes": [
-          "WIDTH_HEIGHT",
-          "GAP"
+          "ALL_SCOPES"
         ]
       }
     },
@@ -138,8 +126,7 @@
       "$extensions": {
         "com.figma.variableId": "VariableID:3525:2515",
         "com.figma.scopes": [
-          "WIDTH_HEIGHT",
-          "GAP"
+          "ALL_SCOPES"
         ]
       }
     },
@@ -149,8 +136,7 @@
       "$extensions": {
         "com.figma.variableId": "VariableID:3525:2516",
         "com.figma.scopes": [
-          "WIDTH_HEIGHT",
-          "GAP"
+          "ALL_SCOPES"
         ]
       }
     },
@@ -160,8 +146,7 @@
       "$extensions": {
         "com.figma.variableId": "VariableID:3525:2517",
         "com.figma.scopes": [
-          "WIDTH_HEIGHT",
-          "GAP"
+          "ALL_SCOPES"
         ]
       }
     },
@@ -171,8 +156,7 @@
       "$extensions": {
         "com.figma.variableId": "VariableID:3525:2518",
         "com.figma.scopes": [
-          "WIDTH_HEIGHT",
-          "GAP"
+          "ALL_SCOPES"
         ]
       }
     },
@@ -182,8 +166,7 @@
       "$extensions": {
         "com.figma.variableId": "VariableID:3525:2519",
         "com.figma.scopes": [
-          "WIDTH_HEIGHT",
-          "GAP"
+          "ALL_SCOPES"
         ]
       }
     },
@@ -193,8 +176,7 @@
       "$extensions": {
         "com.figma.variableId": "VariableID:3721:2161",
         "com.figma.scopes": [
-          "WIDTH_HEIGHT",
-          "GAP"
+          "ALL_SCOPES"
         ]
       }
     },
@@ -204,8 +186,7 @@
       "$extensions": {
         "com.figma.variableId": "VariableID:3525:2520",
         "com.figma.scopes": [
-          "WIDTH_HEIGHT",
-          "GAP"
+          "ALL_SCOPES"
         ]
       }
     },
@@ -215,8 +196,7 @@
       "$extensions": {
         "com.figma.variableId": "VariableID:3721:2158",
         "com.figma.scopes": [
-          "WIDTH_HEIGHT",
-          "GAP"
+          "ALL_SCOPES"
         ]
       }
     },
@@ -226,8 +206,7 @@
       "$extensions": {
         "com.figma.variableId": "VariableID:3721:2159",
         "com.figma.scopes": [
-          "WIDTH_HEIGHT",
-          "GAP"
+          "ALL_SCOPES"
         ]
       }
     },
@@ -237,8 +216,7 @@
       "$extensions": {
         "com.figma.variableId": "VariableID:3721:2160",
         "com.figma.scopes": [
-          "WIDTH_HEIGHT",
-          "GAP"
+          "ALL_SCOPES"
         ]
       }
     },
@@ -248,8 +226,7 @@
       "$extensions": {
         "com.figma.variableId": "VariableID:3721:2162",
         "com.figma.scopes": [
-          "WIDTH_HEIGHT",
-          "GAP"
+          "ALL_SCOPES"
         ]
       }
     },
@@ -259,8 +236,7 @@
       "$extensions": {
         "com.figma.variableId": "VariableID:3721:2163",
         "com.figma.scopes": [
-          "WIDTH_HEIGHT",
-          "GAP"
+          "ALL_SCOPES"
         ]
       }
     },
@@ -270,8 +246,7 @@
       "$extensions": {
         "com.figma.variableId": "VariableID:3721:2164",
         "com.figma.scopes": [
-          "WIDTH_HEIGHT",
-          "GAP"
+          "ALL_SCOPES"
         ]
       }
     },
@@ -281,8 +256,7 @@
       "$extensions": {
         "com.figma.variableId": "VariableID:3721:2165",
         "com.figma.scopes": [
-          "WIDTH_HEIGHT",
-          "GAP"
+          "ALL_SCOPES"
         ]
       }
     },
@@ -292,8 +266,7 @@
       "$extensions": {
         "com.figma.variableId": "VariableID:3721:2166",
         "com.figma.scopes": [
-          "WIDTH_HEIGHT",
-          "GAP"
+          "ALL_SCOPES"
         ]
       }
     },
@@ -303,8 +276,7 @@
       "$extensions": {
         "com.figma.variableId": "VariableID:3721:2167",
         "com.figma.scopes": [
-          "WIDTH_HEIGHT",
-          "GAP"
+          "ALL_SCOPES"
         ]
       }
     },
@@ -314,8 +286,7 @@
       "$extensions": {
         "com.figma.variableId": "VariableID:3721:2168",
         "com.figma.scopes": [
-          "WIDTH_HEIGHT",
-          "GAP"
+          "ALL_SCOPES"
         ]
       }
     },
@@ -325,8 +296,7 @@
       "$extensions": {
         "com.figma.variableId": "VariableID:3721:2169",
         "com.figma.scopes": [
-          "WIDTH_HEIGHT",
-          "GAP"
+          "ALL_SCOPES"
         ]
       }
     },
@@ -336,8 +306,7 @@
       "$extensions": {
         "com.figma.variableId": "VariableID:2:59",
         "com.figma.scopes": [
-          "WIDTH_HEIGHT",
-          "GAP"
+          "ALL_SCOPES"
         ]
       }
     },
@@ -347,8 +316,7 @@
       "$extensions": {
         "com.figma.variableId": "VariableID:2:61",
         "com.figma.scopes": [
-          "WIDTH_HEIGHT",
-          "GAP"
+          "ALL_SCOPES"
         ]
       }
     },
@@ -358,8 +326,7 @@
       "$extensions": {
         "com.figma.variableId": "VariableID:2:63",
         "com.figma.scopes": [
-          "WIDTH_HEIGHT",
-          "GAP"
+          "ALL_SCOPES"
         ]
       }
     },
@@ -369,8 +336,7 @@
       "$extensions": {
         "com.figma.variableId": "VariableID:2:65",
         "com.figma.scopes": [
-          "WIDTH_HEIGHT",
-          "GAP"
+          "ALL_SCOPES"
         ]
       }
     }
@@ -473,54 +439,6 @@
         "com.figma.variableId": "VariableID:2:77",
         "com.figma.scopes": [
           "ALL_SCOPES"
-        ]
-      }
-    },
-    "radius": {
-      "$type": "number",
-      "$value": 4,
-      "$extensions": {
-        "com.figma.variableId": "VariableID:3910:1135",
-        "com.figma.scopes": []
-      }
-    },
-    "rounded-[calc(var(radius)*1,5)]": {
-      "$type": "number",
-      "$value": 6,
-      "$extensions": {
-        "com.figma.variableId": "VariableID:3910:1133",
-        "com.figma.scopes": [
-          "CORNER_RADIUS"
-        ]
-      }
-    },
-    "rounded-[calc(var(radius)*2)]": {
-      "$type": "number",
-      "$value": 8,
-      "$extensions": {
-        "com.figma.variableId": "VariableID:3910:1132",
-        "com.figma.scopes": [
-          "CORNER_RADIUS"
-        ]
-      }
-    },
-    "rounded-[calc(var(radius)*2,5)]": {
-      "$type": "number",
-      "$value": 10,
-      "$extensions": {
-        "com.figma.variableId": "VariableID:3910:1131",
-        "com.figma.scopes": [
-          "CORNER_RADIUS"
-        ]
-      }
-    },
-    "rounded-[calc(var(radius)*3)]": {
-      "$type": "number",
-      "$value": 12,
-      "$extensions": {
-        "com.figma.variableId": "VariableID:3910:1130",
-        "com.figma.scopes": [
-          "CORNER_RADIUS"
         ]
       }
     }

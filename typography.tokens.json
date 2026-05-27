@@ -22,7 +22,7 @@
     },
     "code": {
       "$type": "string",
-      "$value": "Fira Sans",
+      "$value": "Fira Code",
       "$extensions": {
         "com.figma.variableId": "VariableID:2:1858",
         "com.figma.scopes": [
