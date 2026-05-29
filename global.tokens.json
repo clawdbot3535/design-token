@@ -56,6 +56,20 @@
         }
       }
     },
+    "line-height-sm": {
+      "$type": "number",
+      "$value": 16,
+      "$extensions": {
+        "com.figma.variableId": "VariableID:3945:1358",
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
+        "com.figma.aliasData": {
+          "targetVariableName": "line-heigth/lg",
+          "targetVariableSetName": "primitives/typography"
+        }
+      }
+    },
     "line-height-md": {
       "$type": "number",
       "$value": 16,
@@ -112,16 +126,16 @@
         }
       }
     },
-    "gap": {
+    "gap-sm": {
       "$type": "number",
-      "$value": 4,
+      "$value": 2,
       "$extensions": {
-        "com.figma.variableId": "VariableID:9:66",
+        "com.figma.variableId": "VariableID:3945:1359",
         "com.figma.scopes": [
           "ALL_SCOPES"
         ],
         "com.figma.aliasData": {
-          "targetVariableName": "spacing/1",
+          "targetVariableName": "spacing/0,5",
           "targetVariableSetName": "primitives/dimension"
         }
       }
@@ -806,28 +820,28 @@
     },
     "padding-x-sm": {
       "$type": "number",
-      "$value": 6,
+      "$value": 4,
       "$extensions": {
         "com.figma.variableId": "VariableID:3910:1312",
         "com.figma.scopes": [
           "ALL_SCOPES"
         ],
         "com.figma.aliasData": {
-          "targetVariableName": "spacing/1,5",
+          "targetVariableName": "spacing/1",
           "targetVariableSetName": "primitives/dimension"
         }
       }
     },
     "padding-y-sm": {
       "$type": "number",
-      "$value": 6,
+      "$value": 4,
       "$extensions": {
         "com.figma.variableId": "VariableID:3910:1313",
         "com.figma.scopes": [
           "ALL_SCOPES"
         ],
         "com.figma.aliasData": {
-          "targetVariableName": "spacing/1,5",
+          "targetVariableName": "spacing/1",
           "targetVariableSetName": "primitives/dimension"
         }
       }
@@ -888,11 +902,39 @@
         }
       }
     },
+    "icon-size-sm": {
+      "$type": "number",
+      "$value": 12,
+      "$extensions": {
+        "com.figma.variableId": "VariableID:3945:1360",
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
+        "com.figma.aliasData": {
+          "targetVariableName": "spacing/3",
+          "targetVariableSetName": "primitives/dimension"
+        }
+      }
+    },
     "icon-size-md": {
       "$type": "number",
       "$value": 16,
       "$extensions": {
         "com.figma.variableId": "VariableID:2:1852",
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
+        "com.figma.aliasData": {
+          "targetVariableName": "spacing/4",
+          "targetVariableSetName": "primitives/dimension"
+        }
+      }
+    },
+    "icon-size-lg": {
+      "$type": "number",
+      "$value": 16,
+      "$extensions": {
+        "com.figma.variableId": "VariableID:3945:1179",
         "com.figma.scopes": [
           "ALL_SCOPES"
         ],
@@ -2754,16 +2796,6 @@
     }
   },
   "input": {
-    "height": {
-      "$type": "number",
-      "$value": null,
-      "$extensions": {
-        "com.figma.variableId": "VariableID:2:168",
-        "com.figma.scopes": [
-          "ALL_SCOPES"
-        ]
-      }
-    },
     "padding-x": {
       "$type": "number",
       "$value": 6,
@@ -3322,6 +3354,20 @@
         }
       }
     },
+    "padding-y-md": {
+      "$type": "number",
+      "$value": 6,
+      "$extensions": {
+        "com.figma.variableId": "VariableID:3945:1180",
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
+        "com.figma.aliasData": {
+          "targetVariableName": "spacing/1,5",
+          "targetVariableSetName": "primitives/dimension"
+        }
+      }
+    },
     "radius": {
       "$type": "number",
       "$value": 4,
@@ -3332,6 +3378,20 @@
         ],
         "com.figma.aliasData": {
           "targetVariableName": "rounded/sm",
+          "targetVariableSetName": "primitives/dimension"
+        }
+      }
+    },
+    "gap": {
+      "$type": "number",
+      "$value": 2,
+      "$extensions": {
+        "com.figma.variableId": "VariableID:3945:1357",
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
+        "com.figma.aliasData": {
+          "targetVariableName": "spacing/0,5",
           "targetVariableSetName": "primitives/dimension"
         }
       }
