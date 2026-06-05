@@ -630,7 +630,7 @@
       }
     },
     "state": {
-      "disabled-bg": {
+      "bg-disabled": {
         "$type": "color",
         "$value": {
           "colorSpace": "srgb",
@@ -653,7 +653,7 @@
           }
         }
       },
-      "disabled-text": {
+      "text-disabled": {
         "$type": "color",
         "$value": {
           "colorSpace": "srgb",
@@ -676,7 +676,7 @@
           }
         }
       },
-      "disabled-border": {
+      "border-disabled": {
         "$type": "color",
         "$value": {
           "colorSpace": "srgb",
@@ -699,7 +699,7 @@
           }
         }
       },
-      "disabled-fg": {
+      "fg-disabled": {
         "$type": "color",
         "$value": {
           "colorSpace": "srgb",
@@ -745,7 +745,7 @@
           }
         }
       },
-      "selected-bg": {
+      "bg-selected": {
         "$type": "color",
         "$value": {
           "colorSpace": "srgb",
@@ -768,7 +768,7 @@
           }
         }
       },
-      "selected-text": {
+      "text-selected": {
         "$type": "color",
         "$value": {
           "colorSpace": "srgb",
@@ -791,7 +791,7 @@
           }
         }
       },
-      "selected-border": {
+      "border-selected": {
         "$type": "color",
         "$value": {
           "colorSpace": "srgb",
@@ -814,7 +814,7 @@
           }
         }
       },
-      "hover-overlay": {
+      "overlay-hover": {
         "$type": "color",
         "$value": {
           "colorSpace": "srgb",
@@ -837,7 +837,7 @@
           }
         }
       },
-      "active-overlay": {
+      "overlay-active": {
         "$type": "color",
         "$value": {
           "colorSpace": "srgb",
@@ -860,7 +860,7 @@
           }
         }
       },
-      "loading-bg": {
+      "bg-loading": {
         "$type": "color",
         "$value": {
           "colorSpace": "srgb",
@@ -885,7 +885,7 @@
       }
     },
     "status": {
-      "error-bg": {
+      "bg-error": {
         "$type": "color",
         "$value": {
           "colorSpace": "srgb",
@@ -908,7 +908,7 @@
           }
         }
       },
-      "error-bg-inverted": {
+      "bg-error-inverted": {
         "$type": "color",
         "$value": {
           "colorSpace": "srgb",
@@ -931,7 +931,7 @@
           }
         }
       },
-      "error-text": {
+      "text-error": {
         "$type": "color",
         "$value": {
           "colorSpace": "srgb",
@@ -954,7 +954,7 @@
           }
         }
       },
-      "error-text-on-inverted": {
+      "text-error-on-inverted": {
         "$type": "color",
         "$value": {
           "colorSpace": "srgb",
@@ -977,7 +977,7 @@
           }
         }
       },
-      "error-border": {
+      "border-error": {
         "$type": "color",
         "$value": {
           "colorSpace": "srgb",
@@ -1000,7 +1000,7 @@
           }
         }
       },
-      "warn-bg": {
+      "bg-warning": {
         "$type": "color",
         "$value": {
           "colorSpace": "srgb",
@@ -1023,7 +1023,7 @@
           }
         }
       },
-      "warn-text": {
+      "text-warning": {
         "$type": "color",
         "$value": {
           "colorSpace": "srgb",
@@ -1046,7 +1046,7 @@
           }
         }
       },
-      "warn-border": {
+      "border-warning": {
         "$type": "color",
         "$value": {
           "colorSpace": "srgb",
@@ -1069,7 +1069,7 @@
           }
         }
       },
-      "ok-bg": {
+      "bg-success": {
         "$type": "color",
         "$value": {
           "colorSpace": "srgb",
@@ -1092,7 +1092,7 @@
           }
         }
       },
-      "ok-bg-inverted": {
+      "bg-success-inverted": {
         "$type": "color",
         "$value": {
           "colorSpace": "srgb",
@@ -1115,7 +1115,7 @@
           }
         }
       },
-      "ok-text": {
+      "text-success": {
         "$type": "color",
         "$value": {
           "colorSpace": "srgb",
@@ -1138,7 +1138,7 @@
           }
         }
       },
-      "ok-text-on-inverted": {
+      "text-success-on-inverted": {
         "$type": "color",
         "$value": {
           "colorSpace": "srgb",
@@ -1161,7 +1161,7 @@
           }
         }
       },
-      "ok-border": {
+      "border-success": {
         "$type": "color",
         "$value": {
           "colorSpace": "srgb",
