@@ -126,6 +126,34 @@
         }
       }
     },
+    "border-width": {
+      "$type": "number",
+      "$value": 1,
+      "$extensions": {
+        "com.figma.variableId": "VariableID:3957:2637",
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
+        "com.figma.aliasData": {
+          "targetVariableName": "border/width/default",
+          "targetVariableSetName": "primitives/dimension"
+        }
+      }
+    },
+    "ring-width": {
+      "$type": "number",
+      "$value": 2,
+      "$extensions": {
+        "com.figma.variableId": "VariableID:3957:2643",
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
+        "com.figma.aliasData": {
+          "targetVariableName": "border/width/thick",
+          "targetVariableSetName": "primitives/dimension"
+        }
+      }
+    },
     "gap-sm": {
       "$type": "number",
       "$value": 2,
@@ -3097,6 +3125,20 @@
         }
       }
     },
+    "ring-width": {
+      "$type": "number",
+      "$value": 2,
+      "$extensions": {
+        "com.figma.variableId": "VariableID:3957:2639",
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
+        "com.figma.aliasData": {
+          "targetVariableName": "border/width/thick",
+          "targetVariableSetName": "primitives/dimension"
+        }
+      }
+    },
     "icon-size-md": {
       "$type": "number",
       "$value": 16,
@@ -3136,6 +3178,20 @@
         "com.figma.aliasData": {
           "targetVariableName": "font-weigth/normal",
           "targetVariableSetName": "primitives/typography"
+        }
+      }
+    },
+    "border-width": {
+      "$type": "number",
+      "$value": 1,
+      "$extensions": {
+        "com.figma.variableId": "VariableID:3957:2638",
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
+        "com.figma.aliasData": {
+          "targetVariableName": "border/width/default",
+          "targetVariableSetName": "primitives/dimension"
         }
       }
     },
@@ -7571,6 +7627,34 @@
         ],
         "com.figma.aliasData": {
           "targetVariableName": "input/ring-offset",
+          "targetVariableSetName": "components/global"
+        }
+      }
+    },
+    "ring-width": {
+      "$type": "number",
+      "$value": 2,
+      "$extensions": {
+        "com.figma.variableId": "VariableID:3957:2640",
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
+        "com.figma.aliasData": {
+          "targetVariableName": "input/ring-width",
+          "targetVariableSetName": "components/global"
+        }
+      }
+    },
+    "border-width": {
+      "$type": "number",
+      "$value": 1,
+      "$extensions": {
+        "com.figma.variableId": "VariableID:3957:2641",
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
+        "com.figma.aliasData": {
+          "targetVariableName": "input/border-width",
           "targetVariableSetName": "components/global"
         }
       }
