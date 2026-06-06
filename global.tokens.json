@@ -3570,7 +3570,7 @@
         }
       }
     },
-    "letter-spaching": {
+    "letter-spacing": {
       "$type": "number",
       "$value": 0.4000000059604645,
       "$extensions": {
@@ -5217,7 +5217,7 @@
         }
       }
     },
-    "check-color": {
+    "icon-color": {
       "$type": "color",
       "$value": {
         "colorSpace": "srgb",
@@ -5240,7 +5240,7 @@
         }
       }
     },
-    "check-color-disabled": {
+    "icon-color-disabled": {
       "$type": "color",
       "$value": {
         "colorSpace": "srgb",
@@ -5263,7 +5263,7 @@
         }
       }
     },
-    "check-color-error": {
+    "icon-color-error": {
       "$type": "color",
       "$value": {
         "colorSpace": "srgb",
@@ -5286,7 +5286,7 @@
         }
       }
     },
-    "check-color-success": {
+    "icon-color-success": {
       "$type": "color",
       "$value": {
         "colorSpace": "srgb",
