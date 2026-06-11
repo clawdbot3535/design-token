@@ -4,9 +4,9 @@
       "$type": "string",
       "$value": "Google Sans Flex",
       "$extensions": {
-        "com.figma.variableId": "VariableID:3976:3259",
+        "com.figma.variableId": "VariableID:2:1857",
         "com.figma.scopes": [
-          "ALL_SCOPES"
+          "FONT_FAMILY"
         ],
         "com.figma.collectionName": "primitives/typography",
         "com.figma.modeName": "primitives/typography",
@@ -17,9 +17,9 @@
       "$type": "string",
       "$value": "Geist",
       "$extensions": {
-        "com.figma.variableId": "VariableID:3976:3260",
+        "com.figma.variableId": "VariableID:2:1859",
         "com.figma.scopes": [
-          "ALL_SCOPES"
+          "FONT_FAMILY"
         ],
         "com.figma.collectionName": "primitives/typography",
         "com.figma.modeName": "primitives/typography",
@@ -30,9 +30,9 @@
       "$type": "string",
       "$value": "Fira Code",
       "$extensions": {
-        "com.figma.variableId": "VariableID:3976:3261",
+        "com.figma.variableId": "VariableID:2:1858",
         "com.figma.scopes": [
-          "ALL_SCOPES"
+          "FONT_FAMILY"
         ],
         "com.figma.collectionName": "primitives/typography",
         "com.figma.modeName": "primitives/typography",
@@ -43,9 +43,9 @@
       "$type": "string",
       "$value": "SF Pro",
       "$extensions": {
-        "com.figma.variableId": "VariableID:3976:3262",
+        "com.figma.variableId": "VariableID:3549:1395",
         "com.figma.scopes": [
-          "ALL_SCOPES"
+          "FONT_FAMILY"
         ],
         "com.figma.collectionName": "primitives/typography",
         "com.figma.modeName": "primitives/typography",
@@ -58,9 +58,9 @@
       "$type": "number",
       "$value": -0.4000000059604645,
       "$extensions": {
-        "com.figma.variableId": "VariableID:3976:3263",
+        "com.figma.variableId": "VariableID:2:80",
         "com.figma.scopes": [
-          "ALL_SCOPES"
+          "LETTER_SPACING"
         ],
         "com.figma.collectionName": "primitives/typography",
         "com.figma.modeName": "primitives/typography",
@@ -71,9 +71,9 @@
       "$type": "number",
       "$value": 0,
       "$extensions": {
-        "com.figma.variableId": "VariableID:3976:3264",
+        "com.figma.variableId": "VariableID:2:81",
         "com.figma.scopes": [
-          "ALL_SCOPES"
+          "LETTER_SPACING"
         ],
         "com.figma.collectionName": "primitives/typography",
         "com.figma.modeName": "primitives/typography",
@@ -84,9 +84,9 @@
       "$type": "number",
       "$value": 0.4000000059604645,
       "$extensions": {
-        "com.figma.variableId": "VariableID:3976:3265",
+        "com.figma.variableId": "VariableID:2:82",
         "com.figma.scopes": [
-          "ALL_SCOPES"
+          "LETTER_SPACING"
         ],
         "com.figma.collectionName": "primitives/typography",
         "com.figma.modeName": "primitives/typography",
@@ -97,9 +97,9 @@
       "$type": "number",
       "$value": 0.800000011920929,
       "$extensions": {
-        "com.figma.variableId": "VariableID:3976:3266",
+        "com.figma.variableId": "VariableID:2:83",
         "com.figma.scopes": [
-          "ALL_SCOPES"
+          "LETTER_SPACING"
         ],
         "com.figma.collectionName": "primitives/typography",
         "com.figma.modeName": "primitives/typography",
@@ -110,9 +110,9 @@
       "$type": "number",
       "$value": 1.600000023841858,
       "$extensions": {
-        "com.figma.variableId": "VariableID:3976:3267",
+        "com.figma.variableId": "VariableID:2:84",
         "com.figma.scopes": [
-          "ALL_SCOPES"
+          "LETTER_SPACING"
         ],
         "com.figma.collectionName": "primitives/typography",
         "com.figma.modeName": "primitives/typography",
@@ -125,9 +125,9 @@
       "$type": "number",
       "$value": 8,
       "$extensions": {
-        "com.figma.variableId": "VariableID:3976:3268",
+        "com.figma.variableId": "VariableID:2:1853",
         "com.figma.scopes": [
-          "ALL_SCOPES"
+          "FONT_SIZE"
         ],
         "com.figma.collectionName": "primitives/typography",
         "com.figma.modeName": "primitives/typography",
@@ -138,9 +138,9 @@
       "$type": "number",
       "$value": 10,
       "$extensions": {
-        "com.figma.variableId": "VariableID:3976:3269",
+        "com.figma.variableId": "VariableID:8:146",
         "com.figma.scopes": [
-          "ALL_SCOPES"
+          "FONT_SIZE"
         ],
         "com.figma.collectionName": "primitives/typography",
         "com.figma.modeName": "primitives/typography",
@@ -151,9 +151,9 @@
       "$type": "number",
       "$value": 12,
       "$extensions": {
-        "com.figma.variableId": "VariableID:3976:3270",
+        "com.figma.variableId": "VariableID:2:1854",
         "com.figma.scopes": [
-          "ALL_SCOPES"
+          "FONT_SIZE"
         ],
         "com.figma.collectionName": "primitives/typography",
         "com.figma.modeName": "primitives/typography",
@@ -164,9 +164,9 @@
       "$type": "number",
       "$value": 14,
       "$extensions": {
-        "com.figma.variableId": "VariableID:3976:3271",
+        "com.figma.variableId": "VariableID:2:1855",
         "com.figma.scopes": [
-          "ALL_SCOPES"
+          "FONT_SIZE"
         ],
         "com.figma.collectionName": "primitives/typography",
         "com.figma.modeName": "primitives/typography",
@@ -177,9 +177,9 @@
       "$type": "number",
       "$value": 16,
       "$extensions": {
-        "com.figma.variableId": "VariableID:3976:3272",
+        "com.figma.variableId": "VariableID:6:122",
         "com.figma.scopes": [
-          "ALL_SCOPES"
+          "FONT_SIZE"
         ],
         "com.figma.collectionName": "primitives/typography",
         "com.figma.modeName": "primitives/typography",
@@ -190,9 +190,9 @@
       "$type": "number",
       "$value": 18,
       "$extensions": {
-        "com.figma.variableId": "VariableID:3976:3273",
+        "com.figma.variableId": "VariableID:2:1875",
         "com.figma.scopes": [
-          "ALL_SCOPES"
+          "FONT_SIZE"
         ],
         "com.figma.collectionName": "primitives/typography",
         "com.figma.modeName": "primitives/typography",
@@ -203,9 +203,9 @@
       "$type": "number",
       "$value": 24,
       "$extensions": {
-        "com.figma.variableId": "VariableID:3976:3274",
+        "com.figma.variableId": "VariableID:6:123",
         "com.figma.scopes": [
-          "ALL_SCOPES"
+          "FONT_SIZE"
         ],
         "com.figma.collectionName": "primitives/typography",
         "com.figma.modeName": "primitives/typography",
@@ -216,9 +216,9 @@
       "$type": "number",
       "$value": 32,
       "$extensions": {
-        "com.figma.variableId": "VariableID:3976:3275",
+        "com.figma.variableId": "VariableID:6:124",
         "com.figma.scopes": [
-          "ALL_SCOPES"
+          "FONT_SIZE"
         ],
         "com.figma.collectionName": "primitives/typography",
         "com.figma.modeName": "primitives/typography",
@@ -229,9 +229,9 @@
       "$type": "number",
       "$value": 48,
       "$extensions": {
-        "com.figma.variableId": "VariableID:3976:3276",
+        "com.figma.variableId": "VariableID:6:125",
         "com.figma.scopes": [
-          "ALL_SCOPES"
+          "FONT_SIZE"
         ],
         "com.figma.collectionName": "primitives/typography",
         "com.figma.modeName": "primitives/typography",
@@ -242,9 +242,9 @@
       "$type": "number",
       "$value": 64,
       "$extensions": {
-        "com.figma.variableId": "VariableID:3976:3277",
+        "com.figma.variableId": "VariableID:6:126",
         "com.figma.scopes": [
-          "ALL_SCOPES"
+          "FONT_SIZE"
         ],
         "com.figma.collectionName": "primitives/typography",
         "com.figma.modeName": "primitives/typography",
@@ -255,9 +255,9 @@
       "$type": "number",
       "$value": 72,
       "$extensions": {
-        "com.figma.variableId": "VariableID:3976:3278",
+        "com.figma.variableId": "VariableID:6:127",
         "com.figma.scopes": [
-          "ALL_SCOPES"
+          "FONT_SIZE"
         ],
         "com.figma.collectionName": "primitives/typography",
         "com.figma.modeName": "primitives/typography",
@@ -268,9 +268,9 @@
       "$type": "number",
       "$value": 96,
       "$extensions": {
-        "com.figma.variableId": "VariableID:3976:3279",
+        "com.figma.variableId": "VariableID:6:128",
         "com.figma.scopes": [
-          "ALL_SCOPES"
+          "FONT_SIZE"
         ],
         "com.figma.collectionName": "primitives/typography",
         "com.figma.modeName": "primitives/typography",
@@ -281,9 +281,9 @@
       "$type": "number",
       "$value": 120,
       "$extensions": {
-        "com.figma.variableId": "VariableID:3976:3280",
+        "com.figma.variableId": "VariableID:3525:2802",
         "com.figma.scopes": [
-          "ALL_SCOPES"
+          "FONT_SIZE"
         ],
         "com.figma.collectionName": "primitives/typography",
         "com.figma.modeName": "primitives/typography",
@@ -294,9 +294,9 @@
       "$type": "number",
       "$value": 150,
       "$extensions": {
-        "com.figma.variableId": "VariableID:3976:3281",
+        "com.figma.variableId": "VariableID:3525:2803",
         "com.figma.scopes": [
-          "ALL_SCOPES"
+          "FONT_SIZE"
         ],
         "com.figma.collectionName": "primitives/typography",
         "com.figma.modeName": "primitives/typography",
@@ -309,9 +309,9 @@
       "$type": "number",
       "$value": 100,
       "$extensions": {
-        "com.figma.variableId": "VariableID:3976:3282",
+        "com.figma.variableId": "VariableID:6:114",
         "com.figma.scopes": [
-          "ALL_SCOPES"
+          "FONT_WEIGHT"
         ],
         "com.figma.collectionName": "primitives/typography",
         "com.figma.modeName": "primitives/typography",
@@ -322,9 +322,9 @@
       "$type": "number",
       "$value": 200,
       "$extensions": {
-        "com.figma.variableId": "VariableID:3976:3283",
+        "com.figma.variableId": "VariableID:6:115",
         "com.figma.scopes": [
-          "ALL_SCOPES"
+          "FONT_WEIGHT"
         ],
         "com.figma.collectionName": "primitives/typography",
         "com.figma.modeName": "primitives/typography",
@@ -335,9 +335,9 @@
       "$type": "number",
       "$value": 300,
       "$extensions": {
-        "com.figma.variableId": "VariableID:3976:3284",
+        "com.figma.variableId": "VariableID:6:116",
         "com.figma.scopes": [
-          "ALL_SCOPES"
+          "FONT_WEIGHT"
         ],
         "com.figma.collectionName": "primitives/typography",
         "com.figma.modeName": "primitives/typography",
@@ -348,9 +348,9 @@
       "$type": "number",
       "$value": 400,
       "$extensions": {
-        "com.figma.variableId": "VariableID:3976:3285",
+        "com.figma.variableId": "VariableID:6:117",
         "com.figma.scopes": [
-          "ALL_SCOPES"
+          "FONT_WEIGHT"
         ],
         "com.figma.collectionName": "primitives/typography",
         "com.figma.modeName": "primitives/typography",
@@ -361,9 +361,9 @@
       "$type": "number",
       "$value": 500,
       "$extensions": {
-        "com.figma.variableId": "VariableID:3976:3286",
+        "com.figma.variableId": "VariableID:6:129",
         "com.figma.scopes": [
-          "ALL_SCOPES"
+          "FONT_WEIGHT"
         ],
         "com.figma.collectionName": "primitives/typography",
         "com.figma.modeName": "primitives/typography",
@@ -374,9 +374,9 @@
       "$type": "number",
       "$value": 600,
       "$extensions": {
-        "com.figma.variableId": "VariableID:3976:3287",
+        "com.figma.variableId": "VariableID:6:130",
         "com.figma.scopes": [
-          "ALL_SCOPES"
+          "FONT_WEIGHT"
         ],
         "com.figma.collectionName": "primitives/typography",
         "com.figma.modeName": "primitives/typography",
@@ -387,9 +387,9 @@
       "$type": "number",
       "$value": 700,
       "$extensions": {
-        "com.figma.variableId": "VariableID:3976:3288",
+        "com.figma.variableId": "VariableID:6:131",
         "com.figma.scopes": [
-          "ALL_SCOPES"
+          "FONT_WEIGHT"
         ],
         "com.figma.collectionName": "primitives/typography",
         "com.figma.modeName": "primitives/typography",
@@ -400,9 +400,9 @@
       "$type": "number",
       "$value": 800,
       "$extensions": {
-        "com.figma.variableId": "VariableID:3976:3289",
+        "com.figma.variableId": "VariableID:6:132",
         "com.figma.scopes": [
-          "ALL_SCOPES"
+          "FONT_WEIGHT"
         ],
         "com.figma.collectionName": "primitives/typography",
         "com.figma.modeName": "primitives/typography",
@@ -413,9 +413,9 @@
       "$type": "number",
       "$value": 900,
       "$extensions": {
-        "com.figma.variableId": "VariableID:3976:3290",
+        "com.figma.variableId": "VariableID:6:133",
         "com.figma.scopes": [
-          "ALL_SCOPES"
+          "FONT_WEIGHT"
         ],
         "com.figma.collectionName": "primitives/typography",
         "com.figma.modeName": "primitives/typography",
@@ -426,9 +426,9 @@
       "$type": "number",
       "$value": 600,
       "$extensions": {
-        "com.figma.variableId": "VariableID:3976:3291",
+        "com.figma.variableId": "VariableID:6:134",
         "com.figma.scopes": [
-          "ALL_SCOPES"
+          "FONT_WEIGHT"
         ],
         "com.figma.collectionName": "primitives/typography",
         "com.figma.modeName": "primitives/typography",
@@ -441,9 +441,9 @@
       "$type": "number",
       "$value": 8,
       "$extensions": {
-        "com.figma.variableId": "VariableID:3976:3292",
+        "com.figma.variableId": "VariableID:8:148",
         "com.figma.scopes": [
-          "ALL_SCOPES"
+          "LINE_HEIGHT"
         ],
         "com.figma.collectionName": "primitives/typography",
         "com.figma.modeName": "primitives/typography",
@@ -454,9 +454,9 @@
       "$type": "number",
       "$value": 10,
       "$extensions": {
-        "com.figma.variableId": "VariableID:3976:3293",
+        "com.figma.variableId": "VariableID:6:118",
         "com.figma.scopes": [
-          "ALL_SCOPES"
+          "LINE_HEIGHT"
         ],
         "com.figma.collectionName": "primitives/typography",
         "com.figma.modeName": "primitives/typography",
@@ -467,9 +467,9 @@
       "$type": "number",
       "$value": 12,
       "$extensions": {
-        "com.figma.variableId": "VariableID:3976:3294",
+        "com.figma.variableId": "VariableID:6:119",
         "com.figma.scopes": [
-          "ALL_SCOPES"
+          "LINE_HEIGHT"
         ],
         "com.figma.collectionName": "primitives/typography",
         "com.figma.modeName": "primitives/typography",
@@ -480,9 +480,9 @@
       "$type": "number",
       "$value": 14,
       "$extensions": {
-        "com.figma.variableId": "VariableID:3976:3295",
+        "com.figma.variableId": "VariableID:6:120",
         "com.figma.scopes": [
-          "ALL_SCOPES"
+          "LINE_HEIGHT"
         ],
         "com.figma.collectionName": "primitives/typography",
         "com.figma.modeName": "primitives/typography",
@@ -493,9 +493,9 @@
       "$type": "number",
       "$value": 16,
       "$extensions": {
-        "com.figma.variableId": "VariableID:3976:3296",
+        "com.figma.variableId": "VariableID:8:149",
         "com.figma.scopes": [
-          "ALL_SCOPES"
+          "LINE_HEIGHT"
         ],
         "com.figma.collectionName": "primitives/typography",
         "com.figma.modeName": "primitives/typography",
@@ -506,9 +506,9 @@
       "$type": "number",
       "$value": 20,
       "$extensions": {
-        "com.figma.variableId": "VariableID:3976:3297",
+        "com.figma.variableId": "VariableID:8:150",
         "com.figma.scopes": [
-          "ALL_SCOPES"
+          "LINE_HEIGHT"
         ],
         "com.figma.collectionName": "primitives/typography",
         "com.figma.modeName": "primitives/typography",
@@ -519,9 +519,9 @@
       "$type": "number",
       "$value": 24,
       "$extensions": {
-        "com.figma.variableId": "VariableID:3976:3298",
+        "com.figma.variableId": "VariableID:8:151",
         "com.figma.scopes": [
-          "ALL_SCOPES"
+          "LINE_HEIGHT"
         ],
         "com.figma.collectionName": "primitives/typography",
         "com.figma.modeName": "primitives/typography",
@@ -532,9 +532,9 @@
       "$type": "number",
       "$value": 32,
       "$extensions": {
-        "com.figma.variableId": "VariableID:3976:3299",
+        "com.figma.variableId": "VariableID:8:152",
         "com.figma.scopes": [
-          "ALL_SCOPES"
+          "LINE_HEIGHT"
         ],
         "com.figma.collectionName": "primitives/typography",
         "com.figma.modeName": "primitives/typography",
@@ -545,9 +545,9 @@
       "$type": "number",
       "$value": 40,
       "$extensions": {
-        "com.figma.variableId": "VariableID:3976:3300",
+        "com.figma.variableId": "VariableID:8:153",
         "com.figma.scopes": [
-          "ALL_SCOPES"
+          "LINE_HEIGHT"
         ],
         "com.figma.collectionName": "primitives/typography",
         "com.figma.modeName": "primitives/typography",
@@ -558,9 +558,9 @@
       "$type": "number",
       "$value": 48,
       "$extensions": {
-        "com.figma.variableId": "VariableID:3976:3301",
+        "com.figma.variableId": "VariableID:8:154",
         "com.figma.scopes": [
-          "ALL_SCOPES"
+          "LINE_HEIGHT"
         ],
         "com.figma.collectionName": "primitives/typography",
         "com.figma.modeName": "primitives/typography",
@@ -571,9 +571,9 @@
       "$type": "number",
       "$value": 64,
       "$extensions": {
-        "com.figma.variableId": "VariableID:3976:3302",
+        "com.figma.variableId": "VariableID:8:155",
         "com.figma.scopes": [
-          "ALL_SCOPES"
+          "LINE_HEIGHT"
         ],
         "com.figma.collectionName": "primitives/typography",
         "com.figma.modeName": "primitives/typography",
@@ -584,9 +584,9 @@
       "$type": "number",
       "$value": 72,
       "$extensions": {
-        "com.figma.variableId": "VariableID:3976:3303",
+        "com.figma.variableId": "VariableID:8:156",
         "com.figma.scopes": [
-          "ALL_SCOPES"
+          "LINE_HEIGHT"
         ],
         "com.figma.collectionName": "primitives/typography",
         "com.figma.modeName": "primitives/typography",
