@@ -51,7 +51,7 @@
           "ALL_SCOPES"
         ],
         "com.figma.aliasData": {
-          "targetVariableName": "font-weigth/normal",
+          "targetVariableName": "font-weight/normal",
           "targetVariableSetName": "primitives/typography"
         }
       }
@@ -65,7 +65,7 @@
           "ALL_SCOPES"
         ],
         "com.figma.aliasData": {
-          "targetVariableName": "line-heigth/base",
+          "targetVariableName": "line-height/base",
           "targetVariableSetName": "primitives/typography"
         }
       }
@@ -79,7 +79,7 @@
           "ALL_SCOPES"
         ],
         "com.figma.aliasData": {
-          "targetVariableName": "line-heigth/lg",
+          "targetVariableName": "line-height/lg",
           "targetVariableSetName": "primitives/typography"
         }
       }
@@ -93,7 +93,7 @@
           "ALL_SCOPES"
         ],
         "com.figma.aliasData": {
-          "targetVariableName": "line-heigth/xl",
+          "targetVariableName": "line-height/xl",
           "targetVariableSetName": "primitives/typography"
         }
       }
@@ -3176,7 +3176,7 @@
           "ALL_SCOPES"
         ],
         "com.figma.aliasData": {
-          "targetVariableName": "font-weigth/normal",
+          "targetVariableName": "font-weight/normal",
           "targetVariableSetName": "primitives/typography"
         }
       }
@@ -3537,7 +3537,7 @@
           "ALL_SCOPES"
         ],
         "com.figma.aliasData": {
-          "targetVariableName": "line-heigth/2xs",
+          "targetVariableName": "line-height/2xs",
           "targetVariableSetName": "primitives/typography"
         }
       }
@@ -3551,7 +3551,7 @@
           "ALL_SCOPES"
         ],
         "com.figma.aliasData": {
-          "targetVariableName": "line-heigth/xs",
+          "targetVariableName": "line-height/xs",
           "targetVariableSetName": "primitives/typography"
         }
       }
@@ -3565,7 +3565,7 @@
           "ALL_SCOPES"
         ],
         "com.figma.aliasData": {
-          "targetVariableName": "font-weigth/normal",
+          "targetVariableName": "font-weight/normal",
           "targetVariableSetName": "primitives/typography"
         }
       }
@@ -4396,7 +4396,7 @@
             "ALL_SCOPES"
           ],
           "com.figma.aliasData": {
-            "targetVariableName": "line-heigth/6xl",
+            "targetVariableName": "line-height/6xl",
             "targetVariableSetName": "primitives/typography"
           }
         }
@@ -4424,7 +4424,7 @@
             "ALL_SCOPES"
           ],
           "com.figma.aliasData": {
-            "targetVariableName": "font-weigth/medium",
+            "targetVariableName": "font-weight/medium",
             "targetVariableSetName": "primitives/typography"
           }
         }
@@ -4454,7 +4454,7 @@
             "ALL_SCOPES"
           ],
           "com.figma.aliasData": {
-            "targetVariableName": "line-heigth/4xl",
+            "targetVariableName": "line-height/4xl",
             "targetVariableSetName": "primitives/typography"
           }
         }
@@ -4482,7 +4482,7 @@
             "ALL_SCOPES"
           ],
           "com.figma.aliasData": {
-            "targetVariableName": "font-weigth/medium",
+            "targetVariableName": "font-weight/medium",
             "targetVariableSetName": "primitives/typography"
           }
         }
@@ -7198,7 +7198,7 @@
           "ALL_SCOPES"
         ],
         "com.figma.aliasData": {
-          "targetVariableName": "font-weigth/medium",
+          "targetVariableName": "font-weight/medium",
           "targetVariableSetName": "primitives/typography"
         }
       }
@@ -7212,7 +7212,7 @@
           "ALL_SCOPES"
         ],
         "com.figma.aliasData": {
-          "targetVariableName": "line-heigth/2xs",
+          "targetVariableName": "line-height/2xs",
           "targetVariableSetName": "primitives/typography"
         }
       }
@@ -8125,7 +8125,7 @@
           "ALL_SCOPES"
         ],
         "com.figma.aliasData": {
-          "targetVariableName": "font-weigth/normal",
+          "targetVariableName": "font-weight/normal",
           "targetVariableSetName": "primitives/typography"
         }
       }
@@ -8822,7 +8822,7 @@
           "ALL_SCOPES"
         ],
         "com.figma.aliasData": {
-          "targetVariableName": "font-weigth/normal",
+          "targetVariableName": "font-weight/normal",
           "targetVariableSetName": "primitives/typography"
         }
       }

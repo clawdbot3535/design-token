@@ -235,7 +235,7 @@
       }
     }
   },
-  "font-weigth": {
+  "font-weight": {
     "thin": {
       "$type": "number",
       "$value": 100,
@@ -337,7 +337,7 @@
       }
     }
   },
-  "line-heigth": {
+  "line-height": {
     "2xs": {
       "$type": "number",
       "$value": 8,
