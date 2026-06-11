@@ -14,10 +14,13 @@
           "hex": "#09090B"
         },
         "$extensions": {
-          "com.figma.variableId": "VariableID:2:337",
+          "com.figma.variableId": "VariableID:3976:3802",
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
+          "com.figma.collectionName": "semantic",
+          "com.figma.modeName": "dark",
+          "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
             "targetVariableName": "color/neutral/950",
             "targetVariableSetName": "primitives/color"
@@ -37,10 +40,13 @@
           "hex": "#18181B"
         },
         "$extensions": {
-          "com.figma.variableId": "VariableID:2:338",
+          "com.figma.variableId": "VariableID:3976:3803",
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
+          "com.figma.collectionName": "semantic",
+          "com.figma.modeName": "dark",
+          "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
             "targetVariableName": "color/neutral/900",
             "targetVariableSetName": "primitives/color"
@@ -60,10 +66,13 @@
           "hex": "#27272A"
         },
         "$extensions": {
-          "com.figma.variableId": "VariableID:2:339",
+          "com.figma.variableId": "VariableID:3976:3804",
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
+          "com.figma.collectionName": "semantic",
+          "com.figma.modeName": "dark",
+          "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
             "targetVariableName": "color/neutral/800",
             "targetVariableSetName": "primitives/color"
@@ -83,10 +92,13 @@
           "hex": "#3F3F46"
         },
         "$extensions": {
-          "com.figma.variableId": "VariableID:2:340",
+          "com.figma.variableId": "VariableID:3976:3805",
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
+          "com.figma.collectionName": "semantic",
+          "com.figma.modeName": "dark",
+          "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
             "targetVariableName": "color/neutral/700",
             "targetVariableSetName": "primitives/color"
@@ -106,10 +118,13 @@
           "hex": "#52525B"
         },
         "$extensions": {
-          "com.figma.variableId": "VariableID:2:341",
+          "com.figma.variableId": "VariableID:3976:3806",
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
+          "com.figma.collectionName": "semantic",
+          "com.figma.modeName": "dark",
+          "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
             "targetVariableName": "color/neutral/600",
             "targetVariableSetName": "primitives/color"
@@ -131,10 +146,13 @@
           "hex": "#FAFAFA"
         },
         "$extensions": {
-          "com.figma.variableId": "VariableID:2:342",
+          "com.figma.variableId": "VariableID:3976:3807",
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
+          "com.figma.collectionName": "semantic",
+          "com.figma.modeName": "dark",
+          "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
             "targetVariableName": "color/neutral/50",
             "targetVariableSetName": "primitives/color"
@@ -154,10 +172,13 @@
           "hex": "#A1A1AA"
         },
         "$extensions": {
-          "com.figma.variableId": "VariableID:2:343",
+          "com.figma.variableId": "VariableID:3976:3808",
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
+          "com.figma.collectionName": "semantic",
+          "com.figma.modeName": "dark",
+          "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
             "targetVariableName": "color/neutral/400",
             "targetVariableSetName": "primitives/color"
@@ -177,10 +198,13 @@
           "hex": "#52525B"
         },
         "$extensions": {
-          "com.figma.variableId": "VariableID:2:344",
+          "com.figma.variableId": "VariableID:3976:3809",
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
+          "com.figma.collectionName": "semantic",
+          "com.figma.modeName": "dark",
+          "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
             "targetVariableName": "color/neutral/600",
             "targetVariableSetName": "primitives/color"
@@ -200,10 +224,13 @@
           "hex": "#71717A"
         },
         "$extensions": {
-          "com.figma.variableId": "VariableID:3524:9440",
+          "com.figma.variableId": "VariableID:3976:3810",
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
+          "com.figma.collectionName": "semantic",
+          "com.figma.modeName": "dark",
+          "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
             "targetVariableName": "color/neutral/500",
             "targetVariableSetName": "primitives/color"
@@ -223,10 +250,13 @@
           "hex": "#3F3F46"
         },
         "$extensions": {
-          "com.figma.variableId": "VariableID:2:345",
+          "com.figma.variableId": "VariableID:3976:3811",
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
+          "com.figma.collectionName": "semantic",
+          "com.figma.modeName": "dark",
+          "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
             "targetVariableName": "color/neutral/700",
             "targetVariableSetName": "primitives/color"
@@ -246,10 +276,13 @@
           "hex": "#18181B"
         },
         "$extensions": {
-          "com.figma.variableId": "VariableID:2:346",
+          "com.figma.variableId": "VariableID:3976:3812",
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
+          "com.figma.collectionName": "semantic",
+          "com.figma.modeName": "dark",
+          "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
             "targetVariableName": "color/neutral/900",
             "targetVariableSetName": "primitives/color"
@@ -269,10 +302,13 @@
           "hex": "#6F82C2"
         },
         "$extensions": {
-          "com.figma.variableId": "VariableID:2:347",
+          "com.figma.variableId": "VariableID:3976:3813",
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
+          "com.figma.collectionName": "semantic",
+          "com.figma.modeName": "dark",
+          "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
             "targetVariableName": "color/accent/400",
             "targetVariableSetName": "primitives/color"
@@ -292,10 +328,13 @@
           "hex": "#FFFFFF"
         },
         "$extensions": {
-          "com.figma.variableId": "VariableID:2:348",
+          "com.figma.variableId": "VariableID:3976:3814",
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
+          "com.figma.collectionName": "semantic",
+          "com.figma.modeName": "dark",
+          "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
             "targetVariableName": "color/white",
             "targetVariableSetName": "primitives/color"
@@ -317,10 +356,13 @@
           "hex": "#3F3F46"
         },
         "$extensions": {
-          "com.figma.variableId": "VariableID:2:349",
+          "com.figma.variableId": "VariableID:3976:3815",
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
+          "com.figma.collectionName": "semantic",
+          "com.figma.modeName": "dark",
+          "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
             "targetVariableName": "color/neutral/700",
             "targetVariableSetName": "primitives/color"
@@ -340,10 +382,13 @@
           "hex": "#27272A"
         },
         "$extensions": {
-          "com.figma.variableId": "VariableID:2:350",
+          "com.figma.variableId": "VariableID:3976:3816",
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
+          "com.figma.collectionName": "semantic",
+          "com.figma.modeName": "dark",
+          "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
             "targetVariableName": "color/neutral/800",
             "targetVariableSetName": "primitives/color"
@@ -363,10 +408,13 @@
           "hex": "#71717A"
         },
         "$extensions": {
-          "com.figma.variableId": "VariableID:2:351",
+          "com.figma.variableId": "VariableID:3976:3817",
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
+          "com.figma.collectionName": "semantic",
+          "com.figma.modeName": "dark",
+          "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
             "targetVariableName": "color/neutral/500",
             "targetVariableSetName": "primitives/color"
@@ -386,10 +434,13 @@
           "hex": "#41508D"
         },
         "$extensions": {
-          "com.figma.variableId": "VariableID:2:352",
+          "com.figma.variableId": "VariableID:3976:3818",
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
+          "com.figma.collectionName": "semantic",
+          "com.figma.modeName": "dark",
+          "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
             "targetVariableName": "color/accent/600",
             "targetVariableSetName": "primitives/color"
@@ -409,10 +460,13 @@
           "hex": "#C81123"
         },
         "$extensions": {
-          "com.figma.variableId": "VariableID:2:353",
+          "com.figma.variableId": "VariableID:3976:3819",
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
+          "com.figma.collectionName": "semantic",
+          "com.figma.modeName": "dark",
+          "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
             "targetVariableName": "color/red/500",
             "targetVariableSetName": "primitives/color"
@@ -432,10 +486,13 @@
           "hex": "#D97706"
         },
         "$extensions": {
-          "com.figma.variableId": "VariableID:3721:1438",
+          "com.figma.variableId": "VariableID:3976:3820",
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
+          "com.figma.collectionName": "semantic",
+          "com.figma.modeName": "dark",
+          "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
             "targetVariableName": "color/amber/600",
             "targetVariableSetName": "primitives/color"
@@ -455,10 +512,13 @@
           "hex": "#00871F"
         },
         "$extensions": {
-          "com.figma.variableId": "VariableID:3524:44423",
+          "com.figma.variableId": "VariableID:3976:3821",
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
+          "com.figma.collectionName": "semantic",
+          "com.figma.modeName": "dark",
+          "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
             "targetVariableName": "color/green/500",
             "targetVariableSetName": "primitives/color"
@@ -480,10 +540,13 @@
           "hex": "#5667A7"
         },
         "$extensions": {
-          "com.figma.variableId": "VariableID:2:354",
+          "com.figma.variableId": "VariableID:3976:3822",
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
+          "com.figma.collectionName": "semantic",
+          "com.figma.modeName": "dark",
+          "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
             "targetVariableName": "color/accent/500",
             "targetVariableSetName": "primitives/color"
@@ -503,10 +566,13 @@
           "hex": "#6F82C2"
         },
         "$extensions": {
-          "com.figma.variableId": "VariableID:2:355",
+          "com.figma.variableId": "VariableID:3976:3823",
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
+          "com.figma.collectionName": "semantic",
+          "com.figma.modeName": "dark",
+          "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
             "targetVariableName": "color/accent/400",
             "targetVariableSetName": "primitives/color"
@@ -526,10 +592,13 @@
           "hex": "#8A9DDB"
         },
         "$extensions": {
-          "com.figma.variableId": "VariableID:2:356",
+          "com.figma.variableId": "VariableID:3976:3824",
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
+          "com.figma.collectionName": "semantic",
+          "com.figma.modeName": "dark",
+          "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
             "targetVariableName": "color/accent/300",
             "targetVariableSetName": "primitives/color"
@@ -549,10 +618,13 @@
           "hex": "#0F1435"
         },
         "$extensions": {
-          "com.figma.variableId": "VariableID:2:357",
+          "com.figma.variableId": "VariableID:3976:3825",
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
+          "com.figma.collectionName": "semantic",
+          "com.figma.modeName": "dark",
+          "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
             "targetVariableName": "color/accent/900",
             "targetVariableSetName": "primitives/color"
@@ -572,10 +644,13 @@
           "hex": "#1E2753"
         },
         "$extensions": {
-          "com.figma.variableId": "VariableID:2:358",
+          "com.figma.variableId": "VariableID:3976:3826",
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
+          "com.figma.collectionName": "semantic",
+          "com.figma.modeName": "dark",
+          "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
             "targetVariableName": "color/accent/800",
             "targetVariableSetName": "primitives/color"
@@ -595,10 +670,13 @@
           "hex": "#FFFFFF"
         },
         "$extensions": {
-          "com.figma.variableId": "VariableID:2:359",
+          "com.figma.variableId": "VariableID:3976:3827",
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
+          "com.figma.collectionName": "semantic",
+          "com.figma.modeName": "dark",
+          "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
             "targetVariableName": "color/white",
             "targetVariableSetName": "primitives/color"
@@ -618,10 +696,13 @@
           "hex": "#6F82C2"
         },
         "$extensions": {
-          "com.figma.variableId": "VariableID:2:360",
+          "com.figma.variableId": "VariableID:3976:3828",
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
+          "com.figma.collectionName": "semantic",
+          "com.figma.modeName": "dark",
+          "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
             "targetVariableName": "color/accent/400",
             "targetVariableSetName": "primitives/color"
@@ -643,10 +724,13 @@
           "hex": "#27272A"
         },
         "$extensions": {
-          "com.figma.variableId": "VariableID:2:361",
+          "com.figma.variableId": "VariableID:3976:3829",
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
+          "com.figma.collectionName": "semantic",
+          "com.figma.modeName": "dark",
+          "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
             "targetVariableName": "color/neutral/800",
             "targetVariableSetName": "primitives/color"
@@ -666,10 +750,13 @@
           "hex": "#52525B"
         },
         "$extensions": {
-          "com.figma.variableId": "VariableID:2:362",
+          "com.figma.variableId": "VariableID:3976:3830",
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
+          "com.figma.collectionName": "semantic",
+          "com.figma.modeName": "dark",
+          "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
             "targetVariableName": "color/neutral/600",
             "targetVariableSetName": "primitives/color"
@@ -689,10 +776,13 @@
           "hex": "#3F3F46"
         },
         "$extensions": {
-          "com.figma.variableId": "VariableID:2:363",
+          "com.figma.variableId": "VariableID:3976:3831",
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
+          "com.figma.collectionName": "semantic",
+          "com.figma.modeName": "dark",
+          "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
             "targetVariableName": "color/neutral/700",
             "targetVariableSetName": "primitives/color"
@@ -712,10 +802,13 @@
           "hex": "#52525B"
         },
         "$extensions": {
-          "com.figma.variableId": "VariableID:3737:3428",
+          "com.figma.variableId": "VariableID:3976:3832",
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
+          "com.figma.collectionName": "semantic",
+          "com.figma.modeName": "dark",
+          "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
             "targetVariableName": "color/neutral/600",
             "targetVariableSetName": "primitives/color"
@@ -735,10 +828,13 @@
           "hex": "#8A9DDB"
         },
         "$extensions": {
-          "com.figma.variableId": "VariableID:2:364",
+          "com.figma.variableId": "VariableID:3976:3833",
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
+          "com.figma.collectionName": "semantic",
+          "com.figma.modeName": "dark",
+          "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
             "targetVariableName": "color/accent/300",
             "targetVariableSetName": "primitives/color"
@@ -758,10 +854,13 @@
           "hex": "#0F1435"
         },
         "$extensions": {
-          "com.figma.variableId": "VariableID:2:365",
+          "com.figma.variableId": "VariableID:3976:3834",
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
+          "com.figma.collectionName": "semantic",
+          "com.figma.modeName": "dark",
+          "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
             "targetVariableName": "color/accent/900",
             "targetVariableSetName": "primitives/color"
@@ -781,10 +880,13 @@
           "hex": "#8A9DDB"
         },
         "$extensions": {
-          "com.figma.variableId": "VariableID:2:366",
+          "com.figma.variableId": "VariableID:3976:3835",
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
+          "com.figma.collectionName": "semantic",
+          "com.figma.modeName": "dark",
+          "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
             "targetVariableName": "color/accent/300",
             "targetVariableSetName": "primitives/color"
@@ -804,10 +906,13 @@
           "hex": "#2F3B71"
         },
         "$extensions": {
-          "com.figma.variableId": "VariableID:2:367",
+          "com.figma.variableId": "VariableID:3976:3836",
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
+          "com.figma.collectionName": "semantic",
+          "com.figma.modeName": "dark",
+          "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
             "targetVariableName": "color/accent/700",
             "targetVariableSetName": "primitives/color"
@@ -827,10 +932,13 @@
           "hex": "#FFFFFF"
         },
         "$extensions": {
-          "com.figma.variableId": "VariableID:2:368",
+          "com.figma.variableId": "VariableID:3976:3837",
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
+          "com.figma.collectionName": "semantic",
+          "com.figma.modeName": "dark",
+          "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
             "targetVariableName": "color/white",
             "targetVariableSetName": "primitives/color"
@@ -850,10 +958,13 @@
           "hex": "#FFFFFF"
         },
         "$extensions": {
-          "com.figma.variableId": "VariableID:2:369",
+          "com.figma.variableId": "VariableID:3976:3838",
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
+          "com.figma.collectionName": "semantic",
+          "com.figma.modeName": "dark",
+          "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
             "targetVariableName": "color/white",
             "targetVariableSetName": "primitives/color"
@@ -873,10 +984,13 @@
           "hex": "#27272A"
         },
         "$extensions": {
-          "com.figma.variableId": "VariableID:2:370",
+          "com.figma.variableId": "VariableID:3976:3839",
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
+          "com.figma.collectionName": "semantic",
+          "com.figma.modeName": "dark",
+          "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
             "targetVariableName": "color/neutral/800",
             "targetVariableSetName": "primitives/color"
@@ -898,10 +1012,13 @@
           "hex": "#E64041"
         },
         "$extensions": {
-          "com.figma.variableId": "VariableID:2:371",
+          "com.figma.variableId": "VariableID:3976:3840",
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
+          "com.figma.collectionName": "semantic",
+          "com.figma.modeName": "dark",
+          "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
             "targetVariableName": "color/red/400",
             "targetVariableSetName": "primitives/color"
@@ -921,10 +1038,13 @@
           "hex": "#E64041"
         },
         "$extensions": {
-          "com.figma.variableId": "VariableID:3736:3416",
+          "com.figma.variableId": "VariableID:3976:3841",
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
+          "com.figma.collectionName": "semantic",
+          "com.figma.modeName": "dark",
+          "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
             "targetVariableName": "color/red/400",
             "targetVariableSetName": "primitives/color"
@@ -944,10 +1064,13 @@
           "hex": "#FFE0DA"
         },
         "$extensions": {
-          "com.figma.variableId": "VariableID:2:372",
+          "com.figma.variableId": "VariableID:3976:3842",
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
+          "com.figma.collectionName": "semantic",
+          "com.figma.modeName": "dark",
+          "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
             "targetVariableName": "color/red/50",
             "targetVariableSetName": "primitives/color"
@@ -967,10 +1090,13 @@
           "hex": "#FFE0DA"
         },
         "$extensions": {
-          "com.figma.variableId": "VariableID:3737:3418",
+          "com.figma.variableId": "VariableID:3976:3843",
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
+          "com.figma.collectionName": "semantic",
+          "com.figma.modeName": "dark",
+          "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
             "targetVariableName": "color/red/50",
             "targetVariableSetName": "primitives/color"
@@ -990,10 +1116,13 @@
           "hex": "#A90005"
         },
         "$extensions": {
-          "com.figma.variableId": "VariableID:2:373",
+          "com.figma.variableId": "VariableID:3976:3844",
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
+          "com.figma.collectionName": "semantic",
+          "com.figma.modeName": "dark",
+          "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
             "targetVariableName": "color/red/600",
             "targetVariableSetName": "primitives/color"
@@ -1013,10 +1142,13 @@
           "hex": "#F59E0B"
         },
         "$extensions": {
-          "com.figma.variableId": "VariableID:2:374",
+          "com.figma.variableId": "VariableID:3976:3845",
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
+          "com.figma.collectionName": "semantic",
+          "com.figma.modeName": "dark",
+          "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
             "targetVariableName": "color/amber/500",
             "targetVariableSetName": "primitives/color"
@@ -1036,10 +1168,13 @@
           "hex": "#FFFBEB"
         },
         "$extensions": {
-          "com.figma.variableId": "VariableID:2:375",
+          "com.figma.variableId": "VariableID:3976:3846",
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
+          "com.figma.collectionName": "semantic",
+          "com.figma.modeName": "dark",
+          "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
             "targetVariableName": "color/amber/50",
             "targetVariableSetName": "primitives/color"
@@ -1059,10 +1194,13 @@
           "hex": "#B45309"
         },
         "$extensions": {
-          "com.figma.variableId": "VariableID:2:376",
+          "com.figma.variableId": "VariableID:3976:3847",
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
+          "com.figma.collectionName": "semantic",
+          "com.figma.modeName": "dark",
+          "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
             "targetVariableName": "color/amber/700",
             "targetVariableSetName": "primitives/color"
@@ -1082,10 +1220,13 @@
           "hex": "#00A23E"
         },
         "$extensions": {
-          "com.figma.variableId": "VariableID:2:377",
+          "com.figma.variableId": "VariableID:3976:3848",
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
+          "com.figma.collectionName": "semantic",
+          "com.figma.modeName": "dark",
+          "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
             "targetVariableName": "color/green/400",
             "targetVariableSetName": "primitives/color"
@@ -1105,10 +1246,13 @@
           "hex": "#00A23E"
         },
         "$extensions": {
-          "com.figma.variableId": "VariableID:3737:3422",
+          "com.figma.variableId": "VariableID:3976:3849",
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
+          "com.figma.collectionName": "semantic",
+          "com.figma.modeName": "dark",
+          "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
             "targetVariableName": "color/green/400",
             "targetVariableSetName": "primitives/color"
@@ -1128,10 +1272,13 @@
           "hex": "#D3FFD9"
         },
         "$extensions": {
-          "com.figma.variableId": "VariableID:2:378",
+          "com.figma.variableId": "VariableID:3976:3850",
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
+          "com.figma.collectionName": "semantic",
+          "com.figma.modeName": "dark",
+          "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
             "targetVariableName": "color/green/50",
             "targetVariableSetName": "primitives/color"
@@ -1151,10 +1298,13 @@
           "hex": "#D3FFD9"
         },
         "$extensions": {
-          "com.figma.variableId": "VariableID:3737:3423",
+          "com.figma.variableId": "VariableID:3976:3851",
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
+          "com.figma.collectionName": "semantic",
+          "com.figma.modeName": "dark",
+          "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
             "targetVariableName": "color/green/50",
             "targetVariableSetName": "primitives/color"
@@ -1174,10 +1324,13 @@
           "hex": "#006E00"
         },
         "$extensions": {
-          "com.figma.variableId": "VariableID:2:379",
+          "com.figma.variableId": "VariableID:3976:3852",
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
+          "com.figma.collectionName": "semantic",
+          "com.figma.modeName": "dark",
+          "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
             "targetVariableName": "color/green/600",
             "targetVariableSetName": "primitives/color"
@@ -1199,10 +1352,13 @@
           "hex": "#0F0F0F"
         },
         "$extensions": {
-          "com.figma.variableId": "VariableID:3759:1900",
+          "com.figma.variableId": "VariableID:3976:3853",
           "com.figma.scopes": [
             "ALL_SCOPES"
-          ]
+          ],
+          "com.figma.collectionName": "semantic",
+          "com.figma.modeName": "dark",
+          "com.figma.resolvedType": "COLOR"
         }
       },
       "overlay-dark-border": {
@@ -1218,10 +1374,13 @@
           "hex": "#FFFFFF"
         },
         "$extensions": {
-          "com.figma.variableId": "VariableID:3759:1901",
+          "com.figma.variableId": "VariableID:3976:3854",
           "com.figma.scopes": [
             "ALL_SCOPES"
-          ]
+          ],
+          "com.figma.collectionName": "semantic",
+          "com.figma.modeName": "dark",
+          "com.figma.resolvedType": "COLOR"
         }
       },
       "overlay-dark-text": {
@@ -1237,10 +1396,13 @@
           "hex": "#FAFAFA"
         },
         "$extensions": {
-          "com.figma.variableId": "VariableID:3759:1902",
+          "com.figma.variableId": "VariableID:3976:3855",
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
+          "com.figma.collectionName": "semantic",
+          "com.figma.modeName": "dark",
+          "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
             "targetVariableName": "color/neutral/50",
             "targetVariableSetName": "primitives/color"
@@ -1260,10 +1422,13 @@
           "hex": "#A1A1AA"
         },
         "$extensions": {
-          "com.figma.variableId": "VariableID:3759:1903",
+          "com.figma.variableId": "VariableID:3976:3856",
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
+          "com.figma.collectionName": "semantic",
+          "com.figma.modeName": "dark",
+          "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
             "targetVariableName": "color/neutral/400",
             "targetVariableSetName": "primitives/color"
@@ -1283,10 +1448,13 @@
           "hex": "#FFFFFF"
         },
         "$extensions": {
-          "com.figma.variableId": "VariableID:3759:1904",
+          "com.figma.variableId": "VariableID:3976:3857",
           "com.figma.scopes": [
             "ALL_SCOPES"
-          ]
+          ],
+          "com.figma.collectionName": "semantic",
+          "com.figma.modeName": "dark",
+          "com.figma.resolvedType": "COLOR"
         }
       },
       "overlay-light-border": {
@@ -1302,10 +1470,13 @@
           "hex": "#000000"
         },
         "$extensions": {
-          "com.figma.variableId": "VariableID:3759:1906",
+          "com.figma.variableId": "VariableID:3976:3858",
           "com.figma.scopes": [
             "ALL_SCOPES"
-          ]
+          ],
+          "com.figma.collectionName": "semantic",
+          "com.figma.modeName": "dark",
+          "com.figma.resolvedType": "COLOR"
         }
       },
       "overlay-light-text": {
@@ -1321,10 +1492,13 @@
           "hex": "#18181B"
         },
         "$extensions": {
-          "com.figma.variableId": "VariableID:3759:1905",
+          "com.figma.variableId": "VariableID:3976:3859",
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
+          "com.figma.collectionName": "semantic",
+          "com.figma.modeName": "dark",
+          "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
             "targetVariableName": "color/neutral/900",
             "targetVariableSetName": "primitives/color"
@@ -1344,10 +1518,13 @@
           "hex": "#A1A1AA"
         },
         "$extensions": {
-          "com.figma.variableId": "VariableID:3759:1907",
+          "com.figma.variableId": "VariableID:3976:3860",
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
+          "com.figma.collectionName": "semantic",
+          "com.figma.modeName": "dark",
+          "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
             "targetVariableName": "color/neutral/400",
             "targetVariableSetName": "primitives/color"
@@ -1367,10 +1544,13 @@
           "hex": "#0F0F0F"
         },
         "$extensions": {
-          "com.figma.variableId": "VariableID:3759:1910",
+          "com.figma.variableId": "VariableID:3976:3861",
           "com.figma.scopes": [
             "ALL_SCOPES"
-          ]
+          ],
+          "com.figma.collectionName": "semantic",
+          "com.figma.modeName": "dark",
+          "com.figma.resolvedType": "COLOR"
         }
       },
       "glass-border": {
@@ -1386,10 +1566,13 @@
           "hex": "#FFFFFF"
         },
         "$extensions": {
-          "com.figma.variableId": "VariableID:3759:1909",
+          "com.figma.variableId": "VariableID:3976:3862",
           "com.figma.scopes": [
             "ALL_SCOPES"
-          ]
+          ],
+          "com.figma.collectionName": "semantic",
+          "com.figma.modeName": "dark",
+          "com.figma.resolvedType": "COLOR"
         }
       },
       "glass-text": {
@@ -1405,10 +1588,13 @@
           "hex": "#FAFAFA"
         },
         "$extensions": {
-          "com.figma.variableId": "VariableID:3759:1908",
+          "com.figma.variableId": "VariableID:3976:3863",
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
+          "com.figma.collectionName": "semantic",
+          "com.figma.modeName": "dark",
+          "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
             "targetVariableName": "color/neutral/50",
             "targetVariableSetName": "primitives/color"
@@ -1428,10 +1614,13 @@
           "hex": "#FAFAFA"
         },
         "$extensions": {
-          "com.figma.variableId": "VariableID:3759:6781",
+          "com.figma.variableId": "VariableID:3976:3864",
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
+          "com.figma.collectionName": "semantic",
+          "com.figma.modeName": "dark",
+          "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
             "targetVariableName": "color/neutral/50",
             "targetVariableSetName": "primitives/color"
@@ -1451,10 +1640,13 @@
           "hex": "#A1A1AA"
         },
         "$extensions": {
-          "com.figma.variableId": "VariableID:3759:6782",
+          "com.figma.variableId": "VariableID:3976:3865",
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
+          "com.figma.collectionName": "semantic",
+          "com.figma.modeName": "dark",
+          "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
             "targetVariableName": "color/neutral/400",
             "targetVariableSetName": "primitives/color"
@@ -1474,10 +1666,13 @@
           "hex": "#52525B"
         },
         "$extensions": {
-          "com.figma.variableId": "VariableID:3759:6783",
+          "com.figma.variableId": "VariableID:3976:3866",
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
+          "com.figma.collectionName": "semantic",
+          "com.figma.modeName": "dark",
+          "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
             "targetVariableName": "color/neutral/600",
             "targetVariableSetName": "primitives/color"
@@ -1497,10 +1692,13 @@
           "hex": "#18181B"
         },
         "$extensions": {
-          "com.figma.variableId": "VariableID:3759:6784",
+          "com.figma.variableId": "VariableID:3976:3867",
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
+          "com.figma.collectionName": "semantic",
+          "com.figma.modeName": "dark",
+          "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
             "targetVariableName": "color/neutral/900",
             "targetVariableSetName": "primitives/color"
@@ -1520,10 +1718,13 @@
           "hex": "#52525B"
         },
         "$extensions": {
-          "com.figma.variableId": "VariableID:3759:6785",
+          "com.figma.variableId": "VariableID:3976:3868",
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
+          "com.figma.collectionName": "semantic",
+          "com.figma.modeName": "dark",
+          "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
             "targetVariableName": "color/neutral/600",
             "targetVariableSetName": "primitives/color"
@@ -1543,10 +1744,13 @@
           "hex": "#A1A1AA"
         },
         "$extensions": {
-          "com.figma.variableId": "VariableID:3759:6786",
+          "com.figma.variableId": "VariableID:3976:3869",
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
+          "com.figma.collectionName": "semantic",
+          "com.figma.modeName": "dark",
+          "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
             "targetVariableName": "color/neutral/400",
             "targetVariableSetName": "primitives/color"
@@ -1566,10 +1770,13 @@
           "hex": "#FFFFFF"
         },
         "$extensions": {
-          "com.figma.variableId": "VariableID:3759:6787",
+          "com.figma.variableId": "VariableID:3976:3870",
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
+          "com.figma.collectionName": "semantic",
+          "com.figma.modeName": "dark",
+          "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
             "targetVariableName": "color/white",
             "targetVariableSetName": "primitives/color"
@@ -1589,10 +1796,13 @@
           "hex": "#FFFFFF"
         },
         "$extensions": {
-          "com.figma.variableId": "VariableID:3759:6788",
+          "com.figma.variableId": "VariableID:3976:3871",
           "com.figma.scopes": [
             "ALL_SCOPES"
-          ]
+          ],
+          "com.figma.collectionName": "semantic",
+          "com.figma.modeName": "dark",
+          "com.figma.resolvedType": "COLOR"
         }
       },
       "icon-on-dark": {
@@ -1608,10 +1818,13 @@
           "hex": "#FAFAFA"
         },
         "$extensions": {
-          "com.figma.variableId": "VariableID:3759:6790",
+          "com.figma.variableId": "VariableID:3976:3872",
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
+          "com.figma.collectionName": "semantic",
+          "com.figma.modeName": "dark",
+          "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
             "targetVariableName": "color/neutral/50",
             "targetVariableSetName": "primitives/color"
@@ -1631,10 +1844,13 @@
           "hex": "#A1A1AA"
         },
         "$extensions": {
-          "com.figma.variableId": "VariableID:3759:6791",
+          "com.figma.variableId": "VariableID:3976:3873",
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
+          "com.figma.collectionName": "semantic",
+          "com.figma.modeName": "dark",
+          "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
             "targetVariableName": "color/neutral/400",
             "targetVariableSetName": "primitives/color"
@@ -1654,10 +1870,13 @@
           "hex": "#52525B"
         },
         "$extensions": {
-          "com.figma.variableId": "VariableID:3759:6792",
+          "com.figma.variableId": "VariableID:3976:3874",
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
+          "com.figma.collectionName": "semantic",
+          "com.figma.modeName": "dark",
+          "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
             "targetVariableName": "color/neutral/600",
             "targetVariableSetName": "primitives/color"
@@ -1677,10 +1896,13 @@
           "hex": "#18181B"
         },
         "$extensions": {
-          "com.figma.variableId": "VariableID:3759:6793",
+          "com.figma.variableId": "VariableID:3976:3875",
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
+          "com.figma.collectionName": "semantic",
+          "com.figma.modeName": "dark",
+          "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
             "targetVariableName": "color/neutral/900",
             "targetVariableSetName": "primitives/color"
@@ -1700,10 +1922,13 @@
           "hex": "#52525B"
         },
         "$extensions": {
-          "com.figma.variableId": "VariableID:3759:6794",
+          "com.figma.variableId": "VariableID:3976:3876",
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
+          "com.figma.collectionName": "semantic",
+          "com.figma.modeName": "dark",
+          "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
             "targetVariableName": "color/neutral/600",
             "targetVariableSetName": "primitives/color"
@@ -1723,10 +1948,13 @@
           "hex": "#A1A1AA"
         },
         "$extensions": {
-          "com.figma.variableId": "VariableID:3759:6795",
+          "com.figma.variableId": "VariableID:3976:3877",
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
+          "com.figma.collectionName": "semantic",
+          "com.figma.modeName": "dark",
+          "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
             "targetVariableName": "color/neutral/400",
             "targetVariableSetName": "primitives/color"
@@ -1746,10 +1974,13 @@
           "hex": "#FFFFFF"
         },
         "$extensions": {
-          "com.figma.variableId": "VariableID:3759:6796",
+          "com.figma.variableId": "VariableID:3976:3878",
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
+          "com.figma.collectionName": "semantic",
+          "com.figma.modeName": "dark",
+          "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
             "targetVariableName": "color/white",
             "targetVariableSetName": "primitives/color"
@@ -1769,10 +2000,13 @@
           "hex": "#FFFFFF"
         },
         "$extensions": {
-          "com.figma.variableId": "VariableID:3759:6797",
+          "com.figma.variableId": "VariableID:3976:3879",
           "com.figma.scopes": [
             "ALL_SCOPES"
-          ]
+          ],
+          "com.figma.collectionName": "semantic",
+          "com.figma.modeName": "dark",
+          "com.figma.resolvedType": "COLOR"
         }
       },
       "solid-dark-bg": {
@@ -1788,10 +2022,13 @@
           "hex": "#18181B"
         },
         "$extensions": {
-          "com.figma.variableId": "VariableID:3830:77224",
+          "com.figma.variableId": "VariableID:3976:3880",
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
+          "com.figma.collectionName": "semantic",
+          "com.figma.modeName": "dark",
+          "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
             "targetVariableName": "color/neutral/900",
             "targetVariableSetName": "primitives/color"
@@ -1811,10 +2048,13 @@
           "hex": "#27272A"
         },
         "$extensions": {
-          "com.figma.variableId": "VariableID:3830:77225",
+          "com.figma.variableId": "VariableID:3976:3881",
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
+          "com.figma.collectionName": "semantic",
+          "com.figma.modeName": "dark",
+          "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
             "targetVariableName": "color/neutral/800",
             "targetVariableSetName": "primitives/color"
@@ -1834,10 +2074,13 @@
           "hex": "#09090B"
         },
         "$extensions": {
-          "com.figma.variableId": "VariableID:3830:77226",
+          "com.figma.variableId": "VariableID:3976:3882",
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
+          "com.figma.collectionName": "semantic",
+          "com.figma.modeName": "dark",
+          "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
             "targetVariableName": "color/neutral/950",
             "targetVariableSetName": "primitives/color"
@@ -1857,10 +2100,13 @@
           "hex": "#FFFFFF"
         },
         "$extensions": {
-          "com.figma.variableId": "VariableID:3830:77227",
+          "com.figma.variableId": "VariableID:3976:3883",
           "com.figma.scopes": [
             "ALL_SCOPES"
-          ]
+          ],
+          "com.figma.collectionName": "semantic",
+          "com.figma.modeName": "dark",
+          "com.figma.resolvedType": "COLOR"
         }
       },
       "solid-light-bg": {
@@ -1876,10 +2122,13 @@
           "hex": "#FAFAFA"
         },
         "$extensions": {
-          "com.figma.variableId": "VariableID:3830:77228",
+          "com.figma.variableId": "VariableID:3976:3884",
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
+          "com.figma.collectionName": "semantic",
+          "com.figma.modeName": "dark",
+          "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
             "targetVariableName": "color/neutral/50",
             "targetVariableSetName": "primitives/color"
@@ -1899,10 +2148,13 @@
           "hex": "#F4F4F5"
         },
         "$extensions": {
-          "com.figma.variableId": "VariableID:3830:77229",
+          "com.figma.variableId": "VariableID:3976:3885",
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
+          "com.figma.collectionName": "semantic",
+          "com.figma.modeName": "dark",
+          "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
             "targetVariableName": "color/neutral/100",
             "targetVariableSetName": "primitives/color"
@@ -1922,10 +2174,13 @@
           "hex": "#E4E4E7"
         },
         "$extensions": {
-          "com.figma.variableId": "VariableID:3830:77230",
+          "com.figma.variableId": "VariableID:3976:3886",
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
+          "com.figma.collectionName": "semantic",
+          "com.figma.modeName": "dark",
+          "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
             "targetVariableName": "color/neutral/200",
             "targetVariableSetName": "primitives/color"
@@ -1945,10 +2200,13 @@
           "hex": "#E4E4E7"
         },
         "$extensions": {
-          "com.figma.variableId": "VariableID:3830:77233",
+          "com.figma.variableId": "VariableID:3976:3887",
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
+          "com.figma.collectionName": "semantic",
+          "com.figma.modeName": "dark",
+          "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
             "targetVariableName": "color/neutral/200",
             "targetVariableSetName": "primitives/color"
@@ -1968,10 +2226,13 @@
           "hex": "#5667A7"
         },
         "$extensions": {
-          "com.figma.variableId": "VariableID:3830:77234",
+          "com.figma.variableId": "VariableID:3976:3888",
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
+          "com.figma.collectionName": "semantic",
+          "com.figma.modeName": "dark",
+          "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
             "targetVariableName": "color/accent/500",
             "targetVariableSetName": "primitives/color"
@@ -1991,10 +2252,13 @@
           "hex": "#41508D"
         },
         "$extensions": {
-          "com.figma.variableId": "VariableID:3830:77235",
+          "com.figma.variableId": "VariableID:3976:3889",
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
+          "com.figma.collectionName": "semantic",
+          "com.figma.modeName": "dark",
+          "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
             "targetVariableName": "color/accent/600",
             "targetVariableSetName": "primitives/color"
@@ -2014,10 +2278,13 @@
           "hex": "#6F82C2"
         },
         "$extensions": {
-          "com.figma.variableId": "VariableID:3830:77236",
+          "com.figma.variableId": "VariableID:3976:3890",
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
+          "com.figma.collectionName": "semantic",
+          "com.figma.modeName": "dark",
+          "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
             "targetVariableName": "color/accent/400",
             "targetVariableSetName": "primitives/color"
