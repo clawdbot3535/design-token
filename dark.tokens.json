@@ -18,7 +18,7 @@
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
-          "com.figma.collectionName": "semantic",
+          "com.figma.collectionName": "semantic/theme",
           "com.figma.modeName": "dark",
           "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
@@ -44,7 +44,7 @@
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
-          "com.figma.collectionName": "semantic",
+          "com.figma.collectionName": "semantic/theme",
           "com.figma.modeName": "dark",
           "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
@@ -70,7 +70,7 @@
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
-          "com.figma.collectionName": "semantic",
+          "com.figma.collectionName": "semantic/theme",
           "com.figma.modeName": "dark",
           "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
@@ -96,7 +96,7 @@
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
-          "com.figma.collectionName": "semantic",
+          "com.figma.collectionName": "semantic/theme",
           "com.figma.modeName": "dark",
           "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
@@ -122,7 +122,7 @@
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
-          "com.figma.collectionName": "semantic",
+          "com.figma.collectionName": "semantic/theme",
           "com.figma.modeName": "dark",
           "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
@@ -150,7 +150,7 @@
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
-          "com.figma.collectionName": "semantic",
+          "com.figma.collectionName": "semantic/theme",
           "com.figma.modeName": "dark",
           "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
@@ -176,7 +176,7 @@
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
-          "com.figma.collectionName": "semantic",
+          "com.figma.collectionName": "semantic/theme",
           "com.figma.modeName": "dark",
           "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
@@ -202,7 +202,7 @@
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
-          "com.figma.collectionName": "semantic",
+          "com.figma.collectionName": "semantic/theme",
           "com.figma.modeName": "dark",
           "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
@@ -228,7 +228,7 @@
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
-          "com.figma.collectionName": "semantic",
+          "com.figma.collectionName": "semantic/theme",
           "com.figma.modeName": "dark",
           "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
@@ -254,7 +254,7 @@
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
-          "com.figma.collectionName": "semantic",
+          "com.figma.collectionName": "semantic/theme",
           "com.figma.modeName": "dark",
           "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
@@ -280,7 +280,7 @@
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
-          "com.figma.collectionName": "semantic",
+          "com.figma.collectionName": "semantic/theme",
           "com.figma.modeName": "dark",
           "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
@@ -306,7 +306,7 @@
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
-          "com.figma.collectionName": "semantic",
+          "com.figma.collectionName": "semantic/theme",
           "com.figma.modeName": "dark",
           "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
@@ -332,7 +332,7 @@
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
-          "com.figma.collectionName": "semantic",
+          "com.figma.collectionName": "semantic/theme",
           "com.figma.modeName": "dark",
           "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
@@ -360,7 +360,7 @@
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
-          "com.figma.collectionName": "semantic",
+          "com.figma.collectionName": "semantic/theme",
           "com.figma.modeName": "dark",
           "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
@@ -386,7 +386,7 @@
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
-          "com.figma.collectionName": "semantic",
+          "com.figma.collectionName": "semantic/theme",
           "com.figma.modeName": "dark",
           "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
@@ -412,7 +412,7 @@
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
-          "com.figma.collectionName": "semantic",
+          "com.figma.collectionName": "semantic/theme",
           "com.figma.modeName": "dark",
           "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
@@ -438,7 +438,7 @@
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
-          "com.figma.collectionName": "semantic",
+          "com.figma.collectionName": "semantic/theme",
           "com.figma.modeName": "dark",
           "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
@@ -464,7 +464,7 @@
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
-          "com.figma.collectionName": "semantic",
+          "com.figma.collectionName": "semantic/theme",
           "com.figma.modeName": "dark",
           "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
@@ -478,19 +478,19 @@
         "$value": {
           "colorSpace": "srgb",
           "components": [
-            0.8509804010391235,
-            0.46666666865348816,
-            0.0235294122248888
+            0.5411764979362488,
+            0.239215686917305,
+            0
           ],
           "alpha": 1,
-          "hex": "#D97706"
+          "hex": "#8A3D00"
         },
         "$extensions": {
           "com.figma.variableId": "VariableID:3721:1438",
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
-          "com.figma.collectionName": "semantic",
+          "com.figma.collectionName": "semantic/theme",
           "com.figma.modeName": "dark",
           "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
@@ -516,7 +516,7 @@
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
-          "com.figma.collectionName": "semantic",
+          "com.figma.collectionName": "semantic/theme",
           "com.figma.modeName": "dark",
           "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
@@ -544,7 +544,7 @@
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
-          "com.figma.collectionName": "semantic",
+          "com.figma.collectionName": "semantic/theme",
           "com.figma.modeName": "dark",
           "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
@@ -570,7 +570,7 @@
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
-          "com.figma.collectionName": "semantic",
+          "com.figma.collectionName": "semantic/theme",
           "com.figma.modeName": "dark",
           "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
@@ -596,7 +596,7 @@
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
-          "com.figma.collectionName": "semantic",
+          "com.figma.collectionName": "semantic/theme",
           "com.figma.modeName": "dark",
           "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
@@ -622,7 +622,7 @@
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
-          "com.figma.collectionName": "semantic",
+          "com.figma.collectionName": "semantic/theme",
           "com.figma.modeName": "dark",
           "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
@@ -648,7 +648,7 @@
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
-          "com.figma.collectionName": "semantic",
+          "com.figma.collectionName": "semantic/theme",
           "com.figma.modeName": "dark",
           "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
@@ -674,7 +674,7 @@
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
-          "com.figma.collectionName": "semantic",
+          "com.figma.collectionName": "semantic/theme",
           "com.figma.modeName": "dark",
           "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
@@ -700,7 +700,7 @@
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
-          "com.figma.collectionName": "semantic",
+          "com.figma.collectionName": "semantic/theme",
           "com.figma.modeName": "dark",
           "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
@@ -728,7 +728,7 @@
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
-          "com.figma.collectionName": "semantic",
+          "com.figma.collectionName": "semantic/theme",
           "com.figma.modeName": "dark",
           "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
@@ -754,7 +754,7 @@
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
-          "com.figma.collectionName": "semantic",
+          "com.figma.collectionName": "semantic/theme",
           "com.figma.modeName": "dark",
           "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
@@ -780,7 +780,7 @@
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
-          "com.figma.collectionName": "semantic",
+          "com.figma.collectionName": "semantic/theme",
           "com.figma.modeName": "dark",
           "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
@@ -806,7 +806,7 @@
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
-          "com.figma.collectionName": "semantic",
+          "com.figma.collectionName": "semantic/theme",
           "com.figma.modeName": "dark",
           "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
@@ -832,7 +832,7 @@
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
-          "com.figma.collectionName": "semantic",
+          "com.figma.collectionName": "semantic/theme",
           "com.figma.modeName": "dark",
           "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
@@ -858,7 +858,7 @@
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
-          "com.figma.collectionName": "semantic",
+          "com.figma.collectionName": "semantic/theme",
           "com.figma.modeName": "dark",
           "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
@@ -884,7 +884,7 @@
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
-          "com.figma.collectionName": "semantic",
+          "com.figma.collectionName": "semantic/theme",
           "com.figma.modeName": "dark",
           "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
@@ -910,7 +910,7 @@
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
-          "com.figma.collectionName": "semantic",
+          "com.figma.collectionName": "semantic/theme",
           "com.figma.modeName": "dark",
           "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
@@ -936,7 +936,7 @@
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
-          "com.figma.collectionName": "semantic",
+          "com.figma.collectionName": "semantic/theme",
           "com.figma.modeName": "dark",
           "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
@@ -962,7 +962,7 @@
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
-          "com.figma.collectionName": "semantic",
+          "com.figma.collectionName": "semantic/theme",
           "com.figma.modeName": "dark",
           "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
@@ -988,7 +988,7 @@
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
-          "com.figma.collectionName": "semantic",
+          "com.figma.collectionName": "semantic/theme",
           "com.figma.modeName": "dark",
           "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
@@ -1016,7 +1016,7 @@
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
-          "com.figma.collectionName": "semantic",
+          "com.figma.collectionName": "semantic/theme",
           "com.figma.modeName": "dark",
           "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
@@ -1042,7 +1042,7 @@
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
-          "com.figma.collectionName": "semantic",
+          "com.figma.collectionName": "semantic/theme",
           "com.figma.modeName": "dark",
           "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
@@ -1068,7 +1068,7 @@
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
-          "com.figma.collectionName": "semantic",
+          "com.figma.collectionName": "semantic/theme",
           "com.figma.modeName": "dark",
           "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
@@ -1094,7 +1094,7 @@
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
-          "com.figma.collectionName": "semantic",
+          "com.figma.collectionName": "semantic/theme",
           "com.figma.modeName": "dark",
           "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
@@ -1120,7 +1120,7 @@
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
-          "com.figma.collectionName": "semantic",
+          "com.figma.collectionName": "semantic/theme",
           "com.figma.modeName": "dark",
           "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
@@ -1134,23 +1134,49 @@
         "$value": {
           "colorSpace": "srgb",
           "components": [
-            0.9607843160629272,
-            0.6196078658103943,
-            0.04313725605607033
+            0.6470588445663452,
+            0.3294117748737335,
+            0
           ],
           "alpha": 1,
-          "hex": "#F59E0B"
+          "hex": "#A55400"
         },
         "$extensions": {
           "com.figma.variableId": "VariableID:2:374",
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
-          "com.figma.collectionName": "semantic",
+          "com.figma.collectionName": "semantic/theme",
           "com.figma.modeName": "dark",
           "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
             "targetVariableName": "color/amber/500",
+            "targetVariableSetName": "primitives/color"
+          }
+        }
+      },
+      "bg-warning-inverted": {
+        "$type": "color",
+        "$value": {
+          "colorSpace": "srgb",
+          "components": [
+            0.8549019694328308,
+            0.5529412031173706,
+            0.0784313753247261
+          ],
+          "alpha": 1,
+          "hex": "#DA8D14"
+        },
+        "$extensions": {
+          "com.figma.variableId": "VariableID:3986:2995",
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
+          "com.figma.collectionName": "semantic/theme",
+          "com.figma.modeName": "dark",
+          "com.figma.resolvedType": "COLOR",
+          "com.figma.aliasData": {
+            "targetVariableName": "color/amber/300",
             "targetVariableSetName": "primitives/color"
           }
         }
@@ -1161,18 +1187,44 @@
           "colorSpace": "srgb",
           "components": [
             1,
-            0.9843137264251709,
-            0.9215686321258545
+            0.9333333373069763,
+            0.7764706015586853
           ],
           "alpha": 1,
-          "hex": "#FFFBEB"
+          "hex": "#FFEEC6"
         },
         "$extensions": {
           "com.figma.variableId": "VariableID:2:375",
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
-          "com.figma.collectionName": "semantic",
+          "com.figma.collectionName": "semantic/theme",
+          "com.figma.modeName": "dark",
+          "com.figma.resolvedType": "COLOR",
+          "com.figma.aliasData": {
+            "targetVariableName": "color/amber/50",
+            "targetVariableSetName": "primitives/color"
+          }
+        }
+      },
+      "text-warning-on-inverted": {
+        "$type": "color",
+        "$value": {
+          "colorSpace": "srgb",
+          "components": [
+            1,
+            0.9333333373069763,
+            0.7764706015586853
+          ],
+          "alpha": 1,
+          "hex": "#FFEEC6"
+        },
+        "$extensions": {
+          "com.figma.variableId": "VariableID:3986:2996",
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
+          "com.figma.collectionName": "semantic/theme",
           "com.figma.modeName": "dark",
           "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
@@ -1186,23 +1238,23 @@
         "$value": {
           "colorSpace": "srgb",
           "components": [
-            0.7058823704719543,
-            0.32549020648002625,
-            0.03529411926865578
+            0.5411764979362488,
+            0.239215686917305,
+            0
           ],
           "alpha": 1,
-          "hex": "#B45309"
+          "hex": "#8A3D00"
         },
         "$extensions": {
           "com.figma.variableId": "VariableID:2:376",
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
-          "com.figma.collectionName": "semantic",
+          "com.figma.collectionName": "semantic/theme",
           "com.figma.modeName": "dark",
           "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
-            "targetVariableName": "color/amber/700",
+            "targetVariableName": "color/amber/600",
             "targetVariableSetName": "primitives/color"
           }
         }
@@ -1224,7 +1276,7 @@
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
-          "com.figma.collectionName": "semantic",
+          "com.figma.collectionName": "semantic/theme",
           "com.figma.modeName": "dark",
           "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
@@ -1250,7 +1302,7 @@
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
-          "com.figma.collectionName": "semantic",
+          "com.figma.collectionName": "semantic/theme",
           "com.figma.modeName": "dark",
           "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
@@ -1276,7 +1328,7 @@
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
-          "com.figma.collectionName": "semantic",
+          "com.figma.collectionName": "semantic/theme",
           "com.figma.modeName": "dark",
           "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
@@ -1302,7 +1354,7 @@
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
-          "com.figma.collectionName": "semantic",
+          "com.figma.collectionName": "semantic/theme",
           "com.figma.modeName": "dark",
           "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
@@ -1328,7 +1380,7 @@
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
-          "com.figma.collectionName": "semantic",
+          "com.figma.collectionName": "semantic/theme",
           "com.figma.modeName": "dark",
           "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
@@ -1356,7 +1408,7 @@
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
-          "com.figma.collectionName": "semantic",
+          "com.figma.collectionName": "semantic/theme",
           "com.figma.modeName": "dark",
           "com.figma.resolvedType": "COLOR"
         }
@@ -1378,9 +1430,13 @@
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
-          "com.figma.collectionName": "semantic",
+          "com.figma.collectionName": "semantic/theme",
           "com.figma.modeName": "dark",
-          "com.figma.resolvedType": "COLOR"
+          "com.figma.resolvedType": "COLOR",
+          "com.figma.aliasData": {
+            "targetVariableName": "color/white/alpha/500-8",
+            "targetVariableSetName": "primitives/color"
+          }
         }
       },
       "overlay-dark-text": {
@@ -1400,7 +1456,7 @@
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
-          "com.figma.collectionName": "semantic",
+          "com.figma.collectionName": "semantic/theme",
           "com.figma.modeName": "dark",
           "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
@@ -1426,7 +1482,7 @@
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
-          "com.figma.collectionName": "semantic",
+          "com.figma.collectionName": "semantic/theme",
           "com.figma.modeName": "dark",
           "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
@@ -1452,7 +1508,7 @@
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
-          "com.figma.collectionName": "semantic",
+          "com.figma.collectionName": "semantic/theme",
           "com.figma.modeName": "dark",
           "com.figma.resolvedType": "COLOR"
         }
@@ -1474,7 +1530,7 @@
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
-          "com.figma.collectionName": "semantic",
+          "com.figma.collectionName": "semantic/theme",
           "com.figma.modeName": "dark",
           "com.figma.resolvedType": "COLOR"
         }
@@ -1496,7 +1552,7 @@
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
-          "com.figma.collectionName": "semantic",
+          "com.figma.collectionName": "semantic/theme",
           "com.figma.modeName": "dark",
           "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
@@ -1522,7 +1578,7 @@
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
-          "com.figma.collectionName": "semantic",
+          "com.figma.collectionName": "semantic/theme",
           "com.figma.modeName": "dark",
           "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
@@ -1548,7 +1604,7 @@
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
-          "com.figma.collectionName": "semantic",
+          "com.figma.collectionName": "semantic/theme",
           "com.figma.modeName": "dark",
           "com.figma.resolvedType": "COLOR"
         }
@@ -1570,7 +1626,7 @@
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
-          "com.figma.collectionName": "semantic",
+          "com.figma.collectionName": "semantic/theme",
           "com.figma.modeName": "dark",
           "com.figma.resolvedType": "COLOR"
         }
@@ -1592,7 +1648,7 @@
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
-          "com.figma.collectionName": "semantic",
+          "com.figma.collectionName": "semantic/theme",
           "com.figma.modeName": "dark",
           "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
@@ -1618,7 +1674,7 @@
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
-          "com.figma.collectionName": "semantic",
+          "com.figma.collectionName": "semantic/theme",
           "com.figma.modeName": "dark",
           "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
@@ -1644,7 +1700,7 @@
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
-          "com.figma.collectionName": "semantic",
+          "com.figma.collectionName": "semantic/theme",
           "com.figma.modeName": "dark",
           "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
@@ -1670,7 +1726,7 @@
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
-          "com.figma.collectionName": "semantic",
+          "com.figma.collectionName": "semantic/theme",
           "com.figma.modeName": "dark",
           "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
@@ -1696,7 +1752,7 @@
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
-          "com.figma.collectionName": "semantic",
+          "com.figma.collectionName": "semantic/theme",
           "com.figma.modeName": "dark",
           "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
@@ -1722,7 +1778,7 @@
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
-          "com.figma.collectionName": "semantic",
+          "com.figma.collectionName": "semantic/theme",
           "com.figma.modeName": "dark",
           "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
@@ -1748,7 +1804,7 @@
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
-          "com.figma.collectionName": "semantic",
+          "com.figma.collectionName": "semantic/theme",
           "com.figma.modeName": "dark",
           "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
@@ -1774,7 +1830,7 @@
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
-          "com.figma.collectionName": "semantic",
+          "com.figma.collectionName": "semantic/theme",
           "com.figma.modeName": "dark",
           "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
@@ -1800,7 +1856,7 @@
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
-          "com.figma.collectionName": "semantic",
+          "com.figma.collectionName": "semantic/theme",
           "com.figma.modeName": "dark",
           "com.figma.resolvedType": "COLOR"
         }
@@ -1822,7 +1878,7 @@
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
-          "com.figma.collectionName": "semantic",
+          "com.figma.collectionName": "semantic/theme",
           "com.figma.modeName": "dark",
           "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
@@ -1848,7 +1904,7 @@
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
-          "com.figma.collectionName": "semantic",
+          "com.figma.collectionName": "semantic/theme",
           "com.figma.modeName": "dark",
           "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
@@ -1874,7 +1930,7 @@
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
-          "com.figma.collectionName": "semantic",
+          "com.figma.collectionName": "semantic/theme",
           "com.figma.modeName": "dark",
           "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
@@ -1900,7 +1956,7 @@
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
-          "com.figma.collectionName": "semantic",
+          "com.figma.collectionName": "semantic/theme",
           "com.figma.modeName": "dark",
           "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
@@ -1926,7 +1982,7 @@
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
-          "com.figma.collectionName": "semantic",
+          "com.figma.collectionName": "semantic/theme",
           "com.figma.modeName": "dark",
           "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
@@ -1952,7 +2008,7 @@
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
-          "com.figma.collectionName": "semantic",
+          "com.figma.collectionName": "semantic/theme",
           "com.figma.modeName": "dark",
           "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
@@ -1978,7 +2034,7 @@
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
-          "com.figma.collectionName": "semantic",
+          "com.figma.collectionName": "semantic/theme",
           "com.figma.modeName": "dark",
           "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
@@ -2004,7 +2060,7 @@
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
-          "com.figma.collectionName": "semantic",
+          "com.figma.collectionName": "semantic/theme",
           "com.figma.modeName": "dark",
           "com.figma.resolvedType": "COLOR"
         }
@@ -2026,7 +2082,7 @@
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
-          "com.figma.collectionName": "semantic",
+          "com.figma.collectionName": "semantic/theme",
           "com.figma.modeName": "dark",
           "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
@@ -2052,7 +2108,7 @@
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
-          "com.figma.collectionName": "semantic",
+          "com.figma.collectionName": "semantic/theme",
           "com.figma.modeName": "dark",
           "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
@@ -2078,7 +2134,7 @@
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
-          "com.figma.collectionName": "semantic",
+          "com.figma.collectionName": "semantic/theme",
           "com.figma.modeName": "dark",
           "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
@@ -2104,7 +2160,7 @@
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
-          "com.figma.collectionName": "semantic",
+          "com.figma.collectionName": "semantic/theme",
           "com.figma.modeName": "dark",
           "com.figma.resolvedType": "COLOR"
         }
@@ -2126,7 +2182,7 @@
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
-          "com.figma.collectionName": "semantic",
+          "com.figma.collectionName": "semantic/theme",
           "com.figma.modeName": "dark",
           "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
@@ -2152,7 +2208,7 @@
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
-          "com.figma.collectionName": "semantic",
+          "com.figma.collectionName": "semantic/theme",
           "com.figma.modeName": "dark",
           "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
@@ -2178,7 +2234,7 @@
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
-          "com.figma.collectionName": "semantic",
+          "com.figma.collectionName": "semantic/theme",
           "com.figma.modeName": "dark",
           "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
@@ -2204,7 +2260,7 @@
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
-          "com.figma.collectionName": "semantic",
+          "com.figma.collectionName": "semantic/theme",
           "com.figma.modeName": "dark",
           "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
@@ -2230,7 +2286,7 @@
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
-          "com.figma.collectionName": "semantic",
+          "com.figma.collectionName": "semantic/theme",
           "com.figma.modeName": "dark",
           "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
@@ -2256,7 +2312,7 @@
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
-          "com.figma.collectionName": "semantic",
+          "com.figma.collectionName": "semantic/theme",
           "com.figma.modeName": "dark",
           "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
@@ -2282,7 +2338,7 @@
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
-          "com.figma.collectionName": "semantic",
+          "com.figma.collectionName": "semantic/theme",
           "com.figma.modeName": "dark",
           "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
